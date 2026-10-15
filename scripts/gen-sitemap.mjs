@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+import {ROUTES} from '../dist/server/entry-server.js';
+const origin='https://painters.tv';
+const pages=ROUTES.filter(p=>!p.startsWith('/city/')&&p!='/404');
+fs.writeFileSync('dist/public/sitemap.xml','<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+pages.map(p=>'<url><loc>'+origin+p+'</loc></url>').join('')+'</urlset>');
+fs.writeFileSync('dist/public/robots.txt','User-agent: *\nAllow: /\nSitemap: '+origin+'/sitemap.xml\n');
+fs.writeFileSync('dist/public/llms.txt','# Painters.tv\nPainting editorial, service guides and a developing contractor directory.\n\nContractor records are being restored. No automated verification, booking, dispatch or guaranteed availability is offered in this release.\n\n'+pages.map(p=>'- '+origin+p).join('\n')+'\n');
+fs.writeFileSync('dist/public/_redirects','/join /list-your-business 301\n/* /404/index.html 404\n');
+fs.writeFileSync('dist/public/_headers','/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n');
+console.log('Sitemap:',pages.length,'indexable pages; all legacy city routes preserved separately.');

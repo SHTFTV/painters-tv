@@ -1,0 +1,5120 @@
+[
+  {
+    "slug": "abbotsford",
+    "name": "Abbotsford",
+    "state": "BC",
+    "population": 153524
+  },
+  {
+    "slug": "abilene",
+    "name": "Abilene",
+    "state": "TX",
+    "population": 127263
+  },
+  {
+    "slug": "ajax",
+    "name": "Ajax",
+    "state": "ON",
+    "population": 126666
+  },
+  {
+    "slug": "akron",
+    "name": "Akron",
+    "state": "OH",
+    "population": 190469
+  },
+  {
+    "slug": "alameda",
+    "name": "Alameda",
+    "state": "CA",
+    "population": 79177
+  },
+  {
+    "slug": "albany",
+    "name": "Albany",
+    "state": "NY",
+    "population": 101082
+  },
+  {
+    "slug": "albany-or",
+    "name": "Albany",
+    "state": "OR",
+    "population": 58320
+  },
+  {
+    "slug": "albuquerque",
+    "name": "Albuquerque",
+    "state": "NM",
+    "population": 564559
+  },
+  {
+    "slug": "alexandria",
+    "name": "Alexandria",
+    "state": "VA",
+    "population": 162003
+  },
+  {
+    "slug": "alexandria-la",
+    "name": "Alexandria",
+    "state": "LA",
+    "population": 46545
+  },
+  {
+    "slug": "alhambra",
+    "name": "Alhambra",
+    "state": "CA",
+    "population": 82868
+  },
+  {
+    "slug": "aliso-viejo",
+    "name": "Aliso Viejo",
+    "state": "CA",
+    "population": 51372
+  },
+  {
+    "slug": "allen",
+    "name": "Allen",
+    "state": "TX",
+    "population": 109045
+  },
+  {
+    "slug": "allentown",
+    "name": "Allentown",
+    "state": "PA",
+    "population": 126092
+  },
+  {
+    "slug": "amarillo",
+    "name": "Amarillo",
+    "state": "TX",
+    "population": 202394
+  },
+  {
+    "slug": "ames",
+    "name": "Ames",
+    "state": "IA",
+    "population": 66427
+  },
+  {
+    "slug": "anaheim",
+    "name": "Anaheim",
+    "state": "CA",
+    "population": 353085
+  },
+  {
+    "slug": "anchorage",
+    "name": "Anchorage",
+    "state": "AK",
+    "population": 291247
+  },
+  {
+    "slug": "anderson",
+    "name": "Anderson",
+    "state": "IN",
+    "population": 54476
+  },
+  {
+    "slug": "ankeny",
+    "name": "Ankeny",
+    "state": "IA",
+    "population": 73123
+  },
+  {
+    "slug": "ann-arbor",
+    "name": "Ann Arbor",
+    "state": "MI",
+    "population": 123851
+  },
+  {
+    "slug": "annapolis",
+    "name": "Annapolis",
+    "state": "MD",
+    "population": 40812
+  },
+  {
+    "slug": "antioch",
+    "name": "Antioch",
+    "state": "CA",
+    "population": 119122
+  },
+  {
+    "slug": "apopka",
+    "name": "Apopka",
+    "state": "FL",
+    "population": 58847
+  },
+  {
+    "slug": "apple-valley",
+    "name": "Apple Valley",
+    "state": "CA",
+    "population": 75791
+  },
+  {
+    "slug": "appleton",
+    "name": "Appleton",
+    "state": "WI",
+    "population": 77034
+  },
+  {
+    "slug": "arcadia",
+    "name": "Arcadia",
+    "state": "CA",
+    "population": 57939
+  },
+  {
+    "slug": "ardmore",
+    "name": "Ardmore",
+    "state": "OK",
+    "population": 24698
+  },
+  {
+    "slug": "arlington",
+    "name": "Arlington",
+    "state": "TX",
+    "population": 398854
+  },
+  {
+    "slug": "arvada",
+    "name": "Arvada",
+    "state": "CO",
+    "population": 127204
+  },
+  {
+    "slug": "athens",
+    "name": "Athens",
+    "state": "GA",
+    "population": 132165
+  },
+  {
+    "slug": "atlanta",
+    "name": "Atlanta",
+    "state": "GA",
+    "population": 510823
+  },
+  {
+    "slug": "atlantic-city",
+    "name": "Atlantic City",
+    "state": "NJ",
+    "population": 40559
+  },
+  {
+    "slug": "auburn",
+    "name": "Auburn",
+    "state": "AL",
+    "population": 79233
+  },
+  {
+    "slug": "auburn-wa",
+    "name": "Auburn",
+    "state": "WA",
+    "population": 87775
+  },
+  {
+    "slug": "auckland",
+    "name": "Auckland",
+    "state": "NZ",
+    "population": 1657000
+  },
+  {
+    "slug": "augusta",
+    "name": "Augusta",
+    "state": "GA",
+    "population": 204365
+  },
+  {
+    "slug": "aurora",
+    "name": "Aurora",
+    "state": "CO",
+    "population": 395043
+  },
+  {
+    "slug": "aurora-il",
+    "name": "Aurora",
+    "state": "IL",
+    "population": 183930
+  },
+  {
+    "slug": "austin",
+    "name": "Austin",
+    "state": "TX",
+    "population": 978908
+  },
+  {
+    "slug": "avondale",
+    "name": "Avondale",
+    "state": "AZ",
+    "population": 91827
+  },
+  {
+    "slug": "azusa",
+    "name": "Azusa",
+    "state": "CA",
+    "population": 50907
+  },
+  {
+    "slug": "bakersfield",
+    "name": "Bakersfield",
+    "state": "CA",
+    "population": 407615
+  },
+  {
+    "slug": "baldwin-park",
+    "name": "Baldwin Park",
+    "state": "CA",
+    "population": 77590
+  },
+  {
+    "slug": "baltimore",
+    "name": "Baltimore",
+    "state": "MD",
+    "population": 585708
+  },
+  {
+    "slug": "barrie",
+    "name": "Barrie",
+    "state": "ON",
+    "population": 147829
+  },
+  {
+    "slug": "bartlesville",
+    "name": "Bartlesville",
+    "state": "OK",
+    "population": 37290
+  },
+  {
+    "slug": "bartlett",
+    "name": "Bartlett",
+    "state": "TN",
+    "population": 59604
+  },
+  {
+    "slug": "baton-rouge",
+    "name": "Baton Rouge",
+    "state": "LA",
+    "population": 225128
+  },
+  {
+    "slug": "bayonne",
+    "name": "Bayonne",
+    "state": "NJ",
+    "population": 71064
+  },
+  {
+    "slug": "beaumont",
+    "name": "Beaumont",
+    "state": "TX",
+    "population": 114323
+  },
+  {
+    "slug": "beaverton",
+    "name": "Beaverton",
+    "state": "OR",
+    "population": 98000
+  },
+  {
+    "slug": "bellevue",
+    "name": "Bellevue",
+    "state": "WA",
+    "population": 155500
+  },
+  {
+    "slug": "bellevue-ne",
+    "name": "Bellevue",
+    "state": "NE",
+    "population": 64176
+  },
+  {
+    "slug": "bellingham",
+    "name": "Bellingham",
+    "state": "WA",
+    "population": 95824
+  },
+  {
+    "slug": "beloit",
+    "name": "Beloit",
+    "state": "WI",
+    "population": 37071
+  },
+  {
+    "slug": "bend",
+    "name": "Bend",
+    "state": "OR",
+    "population": 107417
+  },
+  {
+    "slug": "benton",
+    "name": "Benton",
+    "state": "AR",
+    "population": 38820
+  },
+  {
+    "slug": "berkeley",
+    "name": "Berkeley",
+    "state": "CA",
+    "population": 117145
+  },
+  {
+    "slug": "bethlehem",
+    "name": "Bethlehem",
+    "state": "PA",
+    "population": 76354
+  },
+  {
+    "slug": "billings",
+    "name": "Billings",
+    "state": "MT",
+    "population": 121872
+  },
+  {
+    "slug": "biloxi",
+    "name": "Biloxi",
+    "state": "MS",
+    "population": 46809
+  },
+  {
+    "slug": "binghamton",
+    "name": "Binghamton",
+    "state": "NY",
+    "population": 48505
+  },
+  {
+    "slug": "birmingham",
+    "name": "Birmingham",
+    "state": "AL",
+    "population": 200962
+  },
+  {
+    "slug": "blacksburg",
+    "name": "Blacksburg",
+    "state": "VA",
+    "population": 45932
+  },
+  {
+    "slug": "blaine",
+    "name": "Blaine",
+    "state": "MN",
+    "population": 70222
+  },
+  {
+    "slug": "bloomington-in",
+    "name": "Bloomington",
+    "state": "IN",
+    "population": 79168
+  },
+  {
+    "slug": "bloomington-mn",
+    "name": "Bloomington",
+    "state": "MN",
+    "population": 90062
+  },
+  {
+    "slug": "blue-springs",
+    "name": "Blue Springs",
+    "state": "MO",
+    "population": 59127
+  },
+  {
+    "slug": "boca-raton",
+    "name": "Boca Raton",
+    "state": "FL",
+    "population": 103537
+  },
+  {
+    "slug": "boise",
+    "name": "Boise",
+    "state": "ID",
+    "population": 236310
+  },
+  {
+    "slug": "boston",
+    "name": "Boston",
+    "state": "MA",
+    "population": 653833
+  },
+  {
+    "slug": "bothell",
+    "name": "Bothell",
+    "state": "WA",
+    "population": 50000
+  },
+  {
+    "slug": "boulder",
+    "name": "Boulder",
+    "state": "CO",
+    "population": 105485
+  },
+  {
+    "slug": "bountiful",
+    "name": "Bountiful",
+    "state": "UT",
+    "population": 45628
+  },
+  {
+    "slug": "bowie",
+    "name": "Bowie",
+    "state": "MD",
+    "population": 60727
+  },
+  {
+    "slug": "bowling-green",
+    "name": "Bowling Green",
+    "state": "KY",
+    "population": 80078
+  },
+  {
+    "slug": "boynton-beach",
+    "name": "Boynton Beach",
+    "state": "FL",
+    "population": 80380
+  },
+  {
+    "slug": "brampton",
+    "name": "Brampton",
+    "state": "ON",
+    "population": 656480
+  },
+  {
+    "slug": "brandon",
+    "name": "Brandon",
+    "state": "FL",
+    "population": 114626
+  },
+  {
+    "slug": "brantford",
+    "name": "Brantford",
+    "state": "ON",
+    "population": 104688
+  },
+  {
+    "slug": "brea",
+    "name": "Brea",
+    "state": "CA",
+    "population": 48149
+  },
+  {
+    "slug": "bridgeport",
+    "name": "Bridgeport",
+    "state": "CT",
+    "population": 148654
+  },
+  {
+    "slug": "brighton",
+    "name": "Brighton",
+    "state": "CO",
+    "population": 45055
+  },
+  {
+    "slug": "brisbane",
+    "name": "Brisbane",
+    "state": "AU",
+    "population": 2514000
+  },
+  {
+    "slug": "bristol-ct",
+    "name": "Bristol",
+    "state": "CT",
+    "population": 60833
+  },
+  {
+    "slug": "brockton",
+    "name": "Brockton",
+    "state": "MA",
+    "population": 105643
+  },
+  {
+    "slug": "broken-arrow",
+    "name": "Broken Arrow",
+    "state": "OK",
+    "population": 117892
+  },
+  {
+    "slug": "brookfield",
+    "name": "Brookfield",
+    "state": "WI",
+    "population": 41781
+  },
+  {
+    "slug": "brooklyn-park",
+    "name": "Brooklyn Park",
+    "state": "MN",
+    "population": 86478
+  },
+  {
+    "slug": "broomfield",
+    "name": "Broomfield",
+    "state": "CO",
+    "population": 78890
+  },
+  {
+    "slug": "brossard",
+    "name": "Brossard",
+    "state": "QC",
+    "population": 85721
+  },
+  {
+    "slug": "brownsville",
+    "name": "Brownsville",
+    "state": "TX",
+    "population": 189411
+  },
+  {
+    "slug": "buckeye",
+    "name": "Buckeye",
+    "state": "AZ",
+    "population": 116094
+  },
+  {
+    "slug": "buena-park",
+    "name": "Buena Park",
+    "state": "CA",
+    "population": 83384
+  },
+  {
+    "slug": "buffalo",
+    "name": "Buffalo",
+    "state": "NY",
+    "population": 276807
+  },
+  {
+    "slug": "burbank",
+    "name": "Burbank",
+    "state": "CA",
+    "population": 109086
+  },
+  {
+    "slug": "burien",
+    "name": "Burien",
+    "state": "WA",
+    "population": 53200
+  },
+  {
+    "slug": "burlington",
+    "name": "Burlington",
+    "state": "ON",
+    "population": 186948
+  },
+  {
+    "slug": "burlington-vt",
+    "name": "Burlington",
+    "state": "VT",
+    "population": 46382
+  },
+  {
+    "slug": "burnaby",
+    "name": "Burnaby",
+    "state": "BC",
+    "population": 249125
+  },
+  {
+    "slug": "burnsville",
+    "name": "Burnsville",
+    "state": "MN",
+    "population": 64317
+  },
+  {
+    "slug": "caldwell",
+    "name": "Caldwell",
+    "state": "ID",
+    "population": 68038
+  },
+  {
+    "slug": "calgary",
+    "name": "Calgary",
+    "state": "AB",
+    "population": 1306784
+  },
+  {
+    "slug": "camarillo",
+    "name": "Camarillo",
+    "state": "CA",
+    "population": 67567
+  },
+  {
+    "slug": "cambridge",
+    "name": "Cambridge",
+    "state": "ON",
+    "population": 138479
+  },
+  {
+    "slug": "cambridge-ma",
+    "name": "Cambridge",
+    "state": "MA",
+    "population": 118403
+  },
+  {
+    "slug": "camden",
+    "name": "Camden",
+    "state": "NJ",
+    "population": 73562
+  },
+  {
+    "slug": "campbell",
+    "name": "Campbell",
+    "state": "CA",
+    "population": 45320
+  },
+  {
+    "slug": "canton",
+    "name": "Canton",
+    "state": "OH",
+    "population": 69211
+  },
+  {
+    "slug": "cape-coral",
+    "name": "Cape Coral",
+    "state": "FL",
+    "population": 215724
+  },
+  {
+    "slug": "carlsbad",
+    "name": "Carlsbad",
+    "state": "CA",
+    "population": 115382
+  },
+  {
+    "slug": "carmel",
+    "name": "Carmel",
+    "state": "IN",
+    "population": 104473
+  },
+  {
+    "slug": "carrollton",
+    "name": "Carrollton",
+    "state": "TX",
+    "population": 150818
+  },
+  {
+    "slug": "carson",
+    "name": "Carson",
+    "state": "CA",
+    "population": 95513
+  },
+  {
+    "slug": "cary",
+    "name": "Cary",
+    "state": "NC",
+    "population": 179617
+  },
+  {
+    "slug": "casa-grande",
+    "name": "Casa Grande",
+    "state": "AZ",
+    "population": 64562
+  },
+  {
+    "slug": "castle-rock",
+    "name": "Castle Rock",
+    "state": "CO",
+    "population": 80988
+  },
+  {
+    "slug": "cedar-rapids",
+    "name": "Cedar Rapids",
+    "state": "IA",
+    "population": 139710
+  },
+  {
+    "slug": "centennial",
+    "name": "Centennial",
+    "state": "CO",
+    "population": 118050
+  },
+  {
+    "slug": "chandler",
+    "name": "Chandler",
+    "state": "AZ",
+    "population": 283500
+  },
+  {
+    "slug": "charleston",
+    "name": "Charleston",
+    "state": "WV",
+    "population": 48864
+  },
+  {
+    "slug": "charlotte",
+    "name": "Charlotte",
+    "state": "NC",
+    "population": 897720
+  },
+  {
+    "slug": "charlottesville",
+    "name": "Charlottesville",
+    "state": "VA",
+    "population": 47217
+  },
+  {
+    "slug": "chattanooga",
+    "name": "Chattanooga",
+    "state": "TN",
+    "population": 187212
+  },
+  {
+    "slug": "chesapeake",
+    "name": "Chesapeake",
+    "state": "VA",
+    "population": 254932
+  },
+  {
+    "slug": "chester",
+    "name": "Chester",
+    "state": "PA",
+    "population": 33991
+  },
+  {
+    "slug": "chicago",
+    "name": "Chicago",
+    "state": "IL",
+    "population": 2664452
+  },
+  {
+    "slug": "chico",
+    "name": "Chico",
+    "state": "CA",
+    "population": 103301
+  },
+  {
+    "slug": "chilliwack",
+    "name": "Chilliwack",
+    "state": "BC",
+    "population": 93203
+  },
+  {
+    "slug": "chino",
+    "name": "Chino",
+    "state": "CA",
+    "population": 91403
+  },
+  {
+    "slug": "chino-hills",
+    "name": "Chino Hills",
+    "state": "CA",
+    "population": 87882
+  },
+  {
+    "slug": "chula-vista",
+    "name": "Chula Vista",
+    "state": "CA",
+    "population": 285957
+  },
+  {
+    "slug": "cincinnati",
+    "name": "Cincinnati",
+    "state": "OH",
+    "population": 311097
+  },
+  {
+    "slug": "citrus-heights",
+    "name": "Citrus Heights",
+    "state": "CA",
+    "population": 86909
+  },
+  {
+    "slug": "claremont",
+    "name": "Claremont",
+    "state": "CA",
+    "population": 37266
+  },
+  {
+    "slug": "clarksville",
+    "name": "Clarksville",
+    "state": "TN",
+    "population": 175587
+  },
+  {
+    "slug": "clearwater",
+    "name": "Clearwater",
+    "state": "FL",
+    "population": 119172
+  },
+  {
+    "slug": "clermont",
+    "name": "Clermont",
+    "state": "FL",
+    "population": 57206
+  },
+  {
+    "slug": "cleveland",
+    "name": "Cleveland",
+    "state": "OH",
+    "population": 372624
+  },
+  {
+    "slug": "clifton",
+    "name": "Clifton",
+    "state": "NJ",
+    "population": 89711
+  },
+  {
+    "slug": "clovis",
+    "name": "Clovis",
+    "state": "CA",
+    "population": 122765
+  },
+  {
+    "slug": "coeur-dalene",
+    "name": "Coeur dAlene",
+    "state": "ID",
+    "population": 56750
+  },
+  {
+    "slug": "college-park",
+    "name": "College Park",
+    "state": "MD",
+    "population": 35300
+  },
+  {
+    "slug": "college-station",
+    "name": "College Station",
+    "state": "TX",
+    "population": 125594
+  },
+  {
+    "slug": "colorado-springs",
+    "name": "Colorado Springs",
+    "state": "CO",
+    "population": 491482
+  },
+  {
+    "slug": "columbia",
+    "name": "Columbia",
+    "state": "SC",
+    "population": 137152
+  },
+  {
+    "slug": "columbia-md",
+    "name": "Columbia",
+    "state": "MD",
+    "population": 104681
+  },
+  {
+    "slug": "columbia-tn",
+    "name": "Columbia",
+    "state": "TN",
+    "population": 47067
+  },
+  {
+    "slug": "columbus",
+    "name": "Columbus",
+    "state": "OH",
+    "population": 907971
+  },
+  {
+    "slug": "columbus-in",
+    "name": "Columbus",
+    "state": "IN",
+    "population": 50474
+  },
+  {
+    "slug": "commerce-city",
+    "name": "Commerce City",
+    "state": "CO",
+    "population": 68390
+  },
+  {
+    "slug": "compton",
+    "name": "Compton",
+    "state": "CA",
+    "population": 95740
+  },
+  {
+    "slug": "concord",
+    "name": "Concord",
+    "state": "CA",
+    "population": 132133
+  },
+  {
+    "slug": "concord-nc",
+    "name": "Concord",
+    "state": "NC",
+    "population": 107195
+  },
+  {
+    "slug": "concord-nh",
+    "name": "Concord",
+    "state": "NH",
+    "population": 44503
+  },
+  {
+    "slug": "conroe",
+    "name": "Conroe",
+    "state": "TX",
+    "population": 106769
+  },
+  {
+    "slug": "conway",
+    "name": "Conway",
+    "state": "AR",
+    "population": 76122
+  },
+  {
+    "slug": "coon-rapids",
+    "name": "Coon Rapids",
+    "state": "MN",
+    "population": 63628
+  },
+  {
+    "slug": "coquitlam",
+    "name": "Coquitlam",
+    "state": "BC",
+    "population": 148625
+  },
+  {
+    "slug": "coral-springs",
+    "name": "Coral Springs",
+    "state": "FL",
+    "population": 137927
+  },
+  {
+    "slug": "corona",
+    "name": "Corona",
+    "state": "CA",
+    "population": 159503
+  },
+  {
+    "slug": "corpus-christi",
+    "name": "Corpus Christi",
+    "state": "TX",
+    "population": 320056
+  },
+  {
+    "slug": "corvallis",
+    "name": "Corvallis",
+    "state": "OR",
+    "population": 61056
+  },
+  {
+    "slug": "costa-mesa",
+    "name": "Costa Mesa",
+    "state": "CA",
+    "population": 115830
+  },
+  {
+    "slug": "council-bluffs",
+    "name": "Council Bluffs",
+    "state": "IA",
+    "population": 63618
+  },
+  {
+    "slug": "covina",
+    "name": "Covina",
+    "state": "CA",
+    "population": 50557
+  },
+  {
+    "slug": "covington",
+    "name": "Covington",
+    "state": "KY",
+    "population": 40297
+  },
+  {
+    "slug": "cranston",
+    "name": "Cranston",
+    "state": "RI",
+    "population": 83412
+  },
+  {
+    "slug": "cupertino",
+    "name": "Cupertino",
+    "state": "CA",
+    "population": 60170
+  },
+  {
+    "slug": "cuyahoga-falls",
+    "name": "Cuyahoga Falls",
+    "state": "OH",
+    "population": 51114
+  },
+  {
+    "slug": "cypress",
+    "name": "Cypress",
+    "state": "CA",
+    "population": 50621
+  },
+  {
+    "slug": "dallas",
+    "name": "Dallas",
+    "state": "TX",
+    "population": 1302868
+  },
+  {
+    "slug": "daly-city",
+    "name": "Daly City",
+    "state": "CA",
+    "population": 104739
+  },
+  {
+    "slug": "dana-point",
+    "name": "Dana Point",
+    "state": "CA",
+    "population": 33107
+  },
+  {
+    "slug": "danbury",
+    "name": "Danbury",
+    "state": "CT",
+    "population": 87733
+  },
+  {
+    "slug": "danville",
+    "name": "Danville",
+    "state": "CA",
+    "population": 44503
+  },
+  {
+    "slug": "davenport",
+    "name": "Davenport",
+    "state": "IA",
+    "population": 101590
+  },
+  {
+    "slug": "davie",
+    "name": "Davie",
+    "state": "FL",
+    "population": 113125
+  },
+  {
+    "slug": "dayton",
+    "name": "Dayton",
+    "state": "OH",
+    "population": 136971
+  },
+  {
+    "slug": "daytona-beach",
+    "name": "Daytona Beach",
+    "state": "FL",
+    "population": 73463
+  },
+  {
+    "slug": "decatur",
+    "name": "Decatur",
+    "state": "AL",
+    "population": 54344
+  },
+  {
+    "slug": "deerfield-beach",
+    "name": "Deerfield Beach",
+    "state": "FL",
+    "population": 88379
+  },
+  {
+    "slug": "delray-beach",
+    "name": "Delray Beach",
+    "state": "FL",
+    "population": 68958
+  },
+  {
+    "slug": "delta",
+    "name": "Delta",
+    "state": "BC",
+    "population": 102238
+  },
+  {
+    "slug": "deltona",
+    "name": "Deltona",
+    "state": "FL",
+    "population": 100660
+  },
+  {
+    "slug": "denton",
+    "name": "Denton",
+    "state": "TX",
+    "population": 157692
+  },
+  {
+    "slug": "denver",
+    "name": "Denver",
+    "state": "CO",
+    "population": 716577
+  },
+  {
+    "slug": "des-moines",
+    "name": "Des Moines",
+    "state": "IA",
+    "population": 214778
+  },
+  {
+    "slug": "detroit",
+    "name": "Detroit",
+    "state": "MI",
+    "population": 633218
+  },
+  {
+    "slug": "diamond-bar",
+    "name": "Diamond Bar",
+    "state": "CA",
+    "population": 56449
+  },
+  {
+    "slug": "dothan",
+    "name": "Dothan",
+    "state": "AL",
+    "population": 75587
+  },
+  {
+    "slug": "downey",
+    "name": "Downey",
+    "state": "CA",
+    "population": 111376
+  },
+  {
+    "slug": "draper",
+    "name": "Draper",
+    "state": "UT",
+    "population": 52338
+  },
+  {
+    "slug": "duarte",
+    "name": "Duarte",
+    "state": "CA",
+    "population": 22264
+  },
+  {
+    "slug": "dubai",
+    "name": "Dubai",
+    "state": "AE",
+    "population": 3400000
+  },
+  {
+    "slug": "dublin-ca",
+    "name": "Dublin",
+    "state": "CA",
+    "population": 73092
+  },
+  {
+    "slug": "dublin-oh",
+    "name": "Dublin",
+    "state": "OH",
+    "population": 52545
+  },
+  {
+    "slug": "dubuque",
+    "name": "Dubuque",
+    "state": "IA",
+    "population": 59667
+  },
+  {
+    "slug": "duluth",
+    "name": "Duluth",
+    "state": "MN",
+    "population": 91879
+  },
+  {
+    "slug": "durham",
+    "name": "Durham",
+    "state": "NC",
+    "population": 295781
+  },
+  {
+    "slug": "eagan",
+    "name": "Eagan",
+    "state": "MN",
+    "population": 68535
+  },
+  {
+    "slug": "east-hartford",
+    "name": "East Hartford",
+    "state": "CT",
+    "population": 51045
+  },
+  {
+    "slug": "east-orange",
+    "name": "East Orange",
+    "state": "NJ",
+    "population": 70146
+  },
+  {
+    "slug": "east-providence",
+    "name": "East Providence",
+    "state": "RI",
+    "population": 48170
+  },
+  {
+    "slug": "easton",
+    "name": "Easton",
+    "state": "PA",
+    "population": 28203
+  },
+  {
+    "slug": "eau-claire",
+    "name": "Eau Claire",
+    "state": "WI",
+    "population": 73231
+  },
+  {
+    "slug": "eden-prairie",
+    "name": "Eden Prairie",
+    "state": "MN",
+    "population": 64655
+  },
+  {
+    "slug": "edinburg",
+    "name": "Edinburg",
+    "state": "TX",
+    "population": 110971
+  },
+  {
+    "slug": "edmond",
+    "name": "Edmond",
+    "state": "OK",
+    "population": 99127
+  },
+  {
+    "slug": "edmonds",
+    "name": "Edmonds",
+    "state": "WA",
+    "population": 43200
+  },
+  {
+    "slug": "edmonton",
+    "name": "Edmonton",
+    "state": "AB",
+    "population": 1010899
+  },
+  {
+    "slug": "el-cajon",
+    "name": "El Cajon",
+    "state": "CA",
+    "population": 109697
+  },
+  {
+    "slug": "el-centro",
+    "name": "El Centro",
+    "state": "CA",
+    "population": 44537
+  },
+  {
+    "slug": "el-monte",
+    "name": "El Monte",
+    "state": "CA",
+    "population": 109450
+  },
+  {
+    "slug": "el-paso",
+    "name": "El Paso",
+    "state": "TX",
+    "population": 678958
+  },
+  {
+    "slug": "elgin",
+    "name": "Elgin",
+    "state": "IL",
+    "population": 117117
+  },
+  {
+    "slug": "elizabeth",
+    "name": "Elizabeth",
+    "state": "NJ",
+    "population": 137298
+  },
+  {
+    "slug": "elk-grove",
+    "name": "Elk Grove",
+    "state": "CA",
+    "population": 184338
+  },
+  {
+    "slug": "elkhart",
+    "name": "Elkhart",
+    "state": "IN",
+    "population": 53923
+  },
+  {
+    "slug": "elyria",
+    "name": "Elyria",
+    "state": "OH",
+    "population": 51816
+  },
+  {
+    "slug": "encinitas",
+    "name": "Encinitas",
+    "state": "CA",
+    "population": 63501
+  },
+  {
+    "slug": "englewood",
+    "name": "Englewood",
+    "state": "CO",
+    "population": 35578
+  },
+  {
+    "slug": "enid",
+    "name": "Enid",
+    "state": "OK",
+    "population": 52566
+  },
+  {
+    "slug": "erie",
+    "name": "Erie",
+    "state": "PA",
+    "population": 94831
+  },
+  {
+    "slug": "escondido",
+    "name": "Escondido",
+    "state": "CA",
+    "population": 151130
+  },
+  {
+    "slug": "eugene",
+    "name": "Eugene",
+    "state": "OR",
+    "population": 178329
+  },
+  {
+    "slug": "evansville",
+    "name": "Evansville",
+    "state": "IN",
+    "population": 117298
+  },
+  {
+    "slug": "everett",
+    "name": "Everett",
+    "state": "WA",
+    "population": 113152
+  },
+  {
+    "slug": "fairbanks",
+    "name": "Fairbanks",
+    "state": "AK",
+    "population": 32324
+  },
+  {
+    "slug": "fairfield",
+    "name": "Fairfield",
+    "state": "CA",
+    "population": 120574
+  },
+  {
+    "slug": "fairfield-oh",
+    "name": "Fairfield",
+    "state": "OH",
+    "population": 44325
+  },
+  {
+    "slug": "fargo",
+    "name": "Fargo",
+    "state": "ND",
+    "population": 133787
+  },
+  {
+    "slug": "fayetteville",
+    "name": "Fayetteville",
+    "state": "NC",
+    "population": 211657
+  },
+  {
+    "slug": "federal-way",
+    "name": "Federal Way",
+    "state": "WA",
+    "population": 101865
+  },
+  {
+    "slug": "fishers",
+    "name": "Fishers",
+    "state": "IN",
+    "population": 107147
+  },
+  {
+    "slug": "flagstaff",
+    "name": "Flagstaff",
+    "state": "AZ",
+    "population": 76831
+  },
+  {
+    "slug": "florence",
+    "name": "Florence",
+    "state": "KY",
+    "population": 33994
+  },
+  {
+    "slug": "florissant",
+    "name": "Florissant",
+    "state": "MO",
+    "population": 52161
+  },
+  {
+    "slug": "folsom",
+    "name": "Folsom",
+    "state": "CA",
+    "population": 85537
+  },
+  {
+    "slug": "fond-du-lac",
+    "name": "Fond du Lac",
+    "state": "WI",
+    "population": 45048
+  },
+  {
+    "slug": "fontana",
+    "name": "Fontana",
+    "state": "CA",
+    "population": 218547
+  },
+  {
+    "slug": "fort-collins",
+    "name": "Fort Collins",
+    "state": "CO",
+    "population": 174461
+  },
+  {
+    "slug": "fort-lauderdale",
+    "name": "Fort Lauderdale",
+    "state": "FL",
+    "population": 186153
+  },
+  {
+    "slug": "fort-smith",
+    "name": "Fort Smith",
+    "state": "AR",
+    "population": 89642
+  },
+  {
+    "slug": "fort-wayne",
+    "name": "Fort Wayne",
+    "state": "IN",
+    "population": 268378
+  },
+  {
+    "slug": "fort-worth",
+    "name": "Fort Worth",
+    "state": "TX",
+    "population": 1008106
+  },
+  {
+    "slug": "franklin",
+    "name": "Franklin",
+    "state": "TN",
+    "population": 88852
+  },
+  {
+    "slug": "frederick",
+    "name": "Frederick",
+    "state": "MD",
+    "population": 78171
+  },
+  {
+    "slug": "fredericksburg",
+    "name": "Fredericksburg",
+    "state": "VA",
+    "population": 30383
+  },
+  {
+    "slug": "freeport",
+    "name": "Freeport",
+    "state": "NY",
+    "population": 44043
+  },
+  {
+    "slug": "fremont",
+    "name": "Fremont",
+    "state": "CA",
+    "population": 234829
+  },
+  {
+    "slug": "fremont-ne",
+    "name": "Fremont",
+    "state": "NE",
+    "population": 26397
+  },
+  {
+    "slug": "fresno",
+    "name": "Fresno",
+    "state": "CA",
+    "population": 545567
+  },
+  {
+    "slug": "frisco",
+    "name": "Frisco",
+    "state": "TX",
+    "population": 230494
+  },
+  {
+    "slug": "fullerton",
+    "name": "Fullerton",
+    "state": "CA",
+    "population": 141254
+  },
+  {
+    "slug": "gainesville",
+    "name": "Gainesville",
+    "state": "FL",
+    "population": 145085
+  },
+  {
+    "slug": "gaithersburg",
+    "name": "Gaithersburg",
+    "state": "MD",
+    "population": 68289
+  },
+  {
+    "slug": "gallatin",
+    "name": "Gallatin",
+    "state": "TN",
+    "population": 45867
+  },
+  {
+    "slug": "garden-grove",
+    "name": "Garden Grove",
+    "state": "CA",
+    "population": 174394
+  },
+  {
+    "slug": "garland",
+    "name": "Garland",
+    "state": "TX",
+    "population": 244400
+  },
+  {
+    "slug": "gary",
+    "name": "Gary",
+    "state": "IN",
+    "population": 67555
+  },
+  {
+    "slug": "gatineau",
+    "name": "Gatineau",
+    "state": "QC",
+    "population": 291041
+  },
+  {
+    "slug": "georgetown",
+    "name": "Georgetown",
+    "state": "KY",
+    "population": 41759
+  },
+  {
+    "slug": "gilbert",
+    "name": "Gilbert",
+    "state": "AZ",
+    "population": 284613
+  },
+  {
+    "slug": "gilroy",
+    "name": "Gilroy",
+    "state": "CA",
+    "population": 61487
+  },
+  {
+    "slug": "glendale-az",
+    "name": "Glendale",
+    "state": "AZ",
+    "population": 255386
+  },
+  {
+    "slug": "glendale-ca",
+    "name": "Glendale",
+    "state": "CA",
+    "population": 198631
+  },
+  {
+    "slug": "glendora",
+    "name": "Glendora",
+    "state": "CA",
+    "population": 53310
+  },
+  {
+    "slug": "glens-falls",
+    "name": "Glens Falls",
+    "state": "NY",
+    "population": 14830
+  },
+  {
+    "slug": "golden",
+    "name": "Golden",
+    "state": "CO",
+    "population": 21116
+  },
+  {
+    "slug": "goodyear",
+    "name": "Goodyear",
+    "state": "AZ",
+    "population": 117007
+  },
+  {
+    "slug": "grand-island",
+    "name": "Grand Island",
+    "state": "NE",
+    "population": 53131
+  },
+  {
+    "slug": "grand-prairie",
+    "name": "Grand Prairie",
+    "state": "TX",
+    "population": 200862
+  },
+  {
+    "slug": "grand-rapids",
+    "name": "Grand Rapids",
+    "state": "MI",
+    "population": 201013
+  },
+  {
+    "slug": "grants-pass",
+    "name": "Grants Pass",
+    "state": "OR",
+    "population": 40827
+  },
+  {
+    "slug": "greater-sudbury",
+    "name": "Greater Sudbury",
+    "state": "ON",
+    "population": 166004
+  },
+  {
+    "slug": "greeley",
+    "name": "Greeley",
+    "state": "CO",
+    "population": 111945
+  },
+  {
+    "slug": "green-bay",
+    "name": "Green Bay",
+    "state": "WI",
+    "population": 109205
+  },
+  {
+    "slug": "greensboro",
+    "name": "Greensboro",
+    "state": "NC",
+    "population": 299035
+  },
+  {
+    "slug": "greenville",
+    "name": "Greenville",
+    "state": "SC",
+    "population": 74006
+  },
+  {
+    "slug": "greenville-nc",
+    "name": "Greenville",
+    "state": "NC",
+    "population": 94075
+  },
+  {
+    "slug": "greenwood",
+    "name": "Greenwood",
+    "state": "IN",
+    "population": 67198
+  },
+  {
+    "slug": "gresham",
+    "name": "Gresham",
+    "state": "OR",
+    "population": 114247
+  },
+  {
+    "slug": "guelph",
+    "name": "Guelph",
+    "state": "ON",
+    "population": 143740
+  },
+  {
+    "slug": "gulfport",
+    "name": "Gulfport",
+    "state": "MS",
+    "population": 72676
+  },
+  {
+    "slug": "hagerstown",
+    "name": "Hagerstown",
+    "state": "MD",
+    "population": 45186
+  },
+  {
+    "slug": "halifax",
+    "name": "Halifax",
+    "state": "NS",
+    "population": 439819
+  },
+  {
+    "slug": "hamilton",
+    "name": "Hamilton",
+    "state": "ON",
+    "population": 569353
+  },
+  {
+    "slug": "hamilton-oh",
+    "name": "Hamilton",
+    "state": "OH",
+    "population": 63310
+  },
+  {
+    "slug": "hammond",
+    "name": "Hammond",
+    "state": "IN",
+    "population": 76030
+  },
+  {
+    "slug": "hampton",
+    "name": "Hampton",
+    "state": "VA",
+    "population": 136836
+  },
+  {
+    "slug": "harrisburg",
+    "name": "Harrisburg",
+    "state": "PA",
+    "population": 50349
+  },
+  {
+    "slug": "harrisonburg",
+    "name": "Harrisonburg",
+    "state": "VA",
+    "population": 54752
+  },
+  {
+    "slug": "hartford",
+    "name": "Hartford",
+    "state": "CT",
+    "population": 121054
+  },
+  {
+    "slug": "hastings",
+    "name": "Hastings",
+    "state": "NE",
+    "population": 25076
+  },
+  {
+    "slug": "hattiesburg",
+    "name": "Hattiesburg",
+    "state": "MS",
+    "population": 50262
+  },
+  {
+    "slug": "hawthorne",
+    "name": "Hawthorne",
+    "state": "CA",
+    "population": 88083
+  },
+  {
+    "slug": "hayward",
+    "name": "Hayward",
+    "state": "CA",
+    "population": 164096
+  },
+  {
+    "slug": "hemet",
+    "name": "Hemet",
+    "state": "CA",
+    "population": 89833
+  },
+  {
+    "slug": "hempstead",
+    "name": "Hempstead",
+    "state": "NY",
+    "population": 59188
+  },
+  {
+    "slug": "henderson",
+    "name": "Henderson",
+    "state": "NV",
+    "population": 332178
+  },
+  {
+    "slug": "hendersonville",
+    "name": "Hendersonville",
+    "state": "TN",
+    "population": 63193
+  },
+  {
+    "slug": "herriman",
+    "name": "Herriman",
+    "state": "UT",
+    "population": 62987
+  },
+  {
+    "slug": "hesperia",
+    "name": "Hesperia",
+    "state": "CA",
+    "population": 102649
+  },
+  {
+    "slug": "hialeah",
+    "name": "Hialeah",
+    "state": "FL",
+    "population": 231352
+  },
+  {
+    "slug": "high-point",
+    "name": "High Point",
+    "state": "NC",
+    "population": 119859
+  },
+  {
+    "slug": "highland",
+    "name": "Highland",
+    "state": "CA",
+    "population": 57869
+  },
+  {
+    "slug": "hillsboro",
+    "name": "Hillsboro",
+    "state": "OR",
+    "population": 109128
+  },
+  {
+    "slug": "hilo",
+    "name": "Hilo",
+    "state": "HI",
+    "population": 45703
+  },
+  {
+    "slug": "hoboken",
+    "name": "Hoboken",
+    "state": "NJ",
+    "population": 59587
+  },
+  {
+    "slug": "hollywood",
+    "name": "Hollywood",
+    "state": "FL",
+    "population": 154116
+  },
+  {
+    "slug": "homestead",
+    "name": "Homestead",
+    "state": "FL",
+    "population": 86411
+  },
+  {
+    "slug": "hong-kong",
+    "name": "Hong Kong",
+    "state": "HK",
+    "population": 7500000
+  },
+  {
+    "slug": "honolulu",
+    "name": "Honolulu",
+    "state": "HI",
+    "population": 345510
+  },
+  {
+    "slug": "hoover",
+    "name": "Hoover",
+    "state": "AL",
+    "population": 93768
+  },
+  {
+    "slug": "hot-springs",
+    "name": "Hot Springs",
+    "state": "AR",
+    "population": 38697
+  },
+  {
+    "slug": "houston",
+    "name": "Houston",
+    "state": "TX",
+    "population": 2314157
+  },
+  {
+    "slug": "huntington",
+    "name": "Huntington",
+    "state": "WV",
+    "population": 44972
+  },
+  {
+    "slug": "huntington-beach",
+    "name": "Huntington Beach",
+    "state": "CA",
+    "population": 203761
+  },
+  {
+    "slug": "huntsville",
+    "name": "Huntsville",
+    "state": "AL",
+    "population": 222052
+  },
+  {
+    "slug": "hutchinson",
+    "name": "Hutchinson",
+    "state": "KS",
+    "population": 40406
+  },
+  {
+    "slug": "idaho-falls",
+    "name": "Idaho Falls",
+    "state": "ID",
+    "population": 67961
+  },
+  {
+    "slug": "independence",
+    "name": "Independence",
+    "state": "MO",
+    "population": 123011
+  },
+  {
+    "slug": "indianapolis",
+    "name": "Indianapolis",
+    "state": "IN",
+    "population": 882039
+  },
+  {
+    "slug": "indio",
+    "name": "Indio",
+    "state": "CA",
+    "population": 92648
+  },
+  {
+    "slug": "inglewood",
+    "name": "Inglewood",
+    "state": "CA",
+    "population": 107762
+  },
+  {
+    "slug": "iowa-city",
+    "name": "Iowa City",
+    "state": "IA",
+    "population": 74828
+  },
+  {
+    "slug": "irvine",
+    "name": "Irvine",
+    "state": "CA",
+    "population": 318037
+  },
+  {
+    "slug": "irving",
+    "name": "Irving",
+    "state": "TX",
+    "population": 256684
+  },
+  {
+    "slug": "issaquah",
+    "name": "Issaquah",
+    "state": "WA",
+    "population": 42700
+  },
+  {
+    "slug": "ithaca",
+    "name": "Ithaca",
+    "state": "NY",
+    "population": 32108
+  },
+  {
+    "slug": "jackson",
+    "name": "Jackson",
+    "state": "MS",
+    "population": 153701
+  },
+  {
+    "slug": "jackson-tn",
+    "name": "Jackson",
+    "state": "TN",
+    "population": 68205
+  },
+  {
+    "slug": "jacksonville",
+    "name": "Jacksonville",
+    "state": "FL",
+    "population": 1009833
+  },
+  {
+    "slug": "janesville",
+    "name": "Janesville",
+    "state": "WI",
+    "population": 65691
+  },
+  {
+    "slug": "jefferson-city",
+    "name": "Jefferson City",
+    "state": "MO",
+    "population": 43228
+  },
+  {
+    "slug": "jeffersonville",
+    "name": "Jeffersonville",
+    "state": "IN",
+    "population": 53624
+  },
+  {
+    "slug": "jersey-city",
+    "name": "Jersey City",
+    "state": "NJ",
+    "population": 292449
+  },
+  {
+    "slug": "johnson-city",
+    "name": "Johnson City",
+    "state": "TN",
+    "population": 71593
+  },
+  {
+    "slug": "joliet",
+    "name": "Joliet",
+    "state": "IL",
+    "population": 150794
+  },
+  {
+    "slug": "jonesboro",
+    "name": "Jonesboro",
+    "state": "AR",
+    "population": 87098
+  },
+  {
+    "slug": "joplin",
+    "name": "Joplin",
+    "state": "MO",
+    "population": 52003
+  },
+  {
+    "slug": "juneau",
+    "name": "Juneau",
+    "state": "AK",
+    "population": 32255
+  },
+  {
+    "slug": "kailua",
+    "name": "Kailua",
+    "state": "HI",
+    "population": 40514
+  },
+  {
+    "slug": "kamloops",
+    "name": "Kamloops",
+    "state": "BC",
+    "population": 100046
+  },
+  {
+    "slug": "kansas-city",
+    "name": "Kansas City",
+    "state": "MO",
+    "population": 508394
+  },
+  {
+    "slug": "kearney",
+    "name": "Kearney",
+    "state": "NE",
+    "population": 34473
+  },
+  {
+    "slug": "keizer",
+    "name": "Keizer",
+    "state": "OR",
+    "population": 42612
+  },
+  {
+    "slug": "kelowna",
+    "name": "Kelowna",
+    "state": "BC",
+    "population": 144576
+  },
+  {
+    "slug": "kenner",
+    "name": "Kenner",
+    "state": "LA",
+    "population": 66975
+  },
+  {
+    "slug": "kennewick",
+    "name": "Kennewick",
+    "state": "WA",
+    "population": 91945
+  },
+  {
+    "slug": "kenosha",
+    "name": "Kenosha",
+    "state": "WI",
+    "population": 101235
+  },
+  {
+    "slug": "kent",
+    "name": "Kent",
+    "state": "WA",
+    "population": 137514
+  },
+  {
+    "slug": "kettering",
+    "name": "Kettering",
+    "state": "OH",
+    "population": 55929
+  },
+  {
+    "slug": "killeen",
+    "name": "Killeen",
+    "state": "TX",
+    "population": 163074
+  },
+  {
+    "slug": "kingsport",
+    "name": "Kingsport",
+    "state": "TN",
+    "population": 56064
+  },
+  {
+    "slug": "kingston",
+    "name": "Kingston",
+    "state": "ON",
+    "population": 132485
+  },
+  {
+    "slug": "kingston-ny",
+    "name": "Kingston",
+    "state": "NY",
+    "population": 23505
+  },
+  {
+    "slug": "kirkland",
+    "name": "Kirkland",
+    "state": "WA",
+    "population": 93010
+  },
+  {
+    "slug": "kissimmee",
+    "name": "Kissimmee",
+    "state": "FL",
+    "population": 82879
+  },
+  {
+    "slug": "kitchener",
+    "name": "Kitchener",
+    "state": "ON",
+    "population": 256885
+  },
+  {
+    "slug": "knoxville",
+    "name": "Knoxville",
+    "state": "TN",
+    "population": 197553
+  },
+  {
+    "slug": "la-crosse",
+    "name": "La Crosse",
+    "state": "WI",
+    "population": 53458
+  },
+  {
+    "slug": "la-habra",
+    "name": "La Habra",
+    "state": "CA",
+    "population": 63542
+  },
+  {
+    "slug": "la-mirada",
+    "name": "La Mirada",
+    "state": "CA",
+    "population": 49394
+  },
+  {
+    "slug": "la-puente",
+    "name": "La Puente",
+    "state": "CA",
+    "population": 40923
+  },
+  {
+    "slug": "la-verne",
+    "name": "LaVerne",
+    "state": "CA",
+    "population": 34175
+  },
+  {
+    "slug": "lacey",
+    "name": "Lacey",
+    "state": "WA",
+    "population": 60890
+  },
+  {
+    "slug": "lafayette",
+    "name": "Lafayette",
+    "state": "LA",
+    "population": 126185
+  },
+  {
+    "slug": "lafayette-in",
+    "name": "Lafayette",
+    "state": "IN",
+    "population": 72540
+  },
+  {
+    "slug": "laguna-beach",
+    "name": "Laguna Beach",
+    "state": "CA",
+    "population": 23150
+  },
+  {
+    "slug": "laguna-niguel",
+    "name": "Laguna Niguel",
+    "state": "CA",
+    "population": 65781
+  },
+  {
+    "slug": "lake-charles",
+    "name": "Lake Charles",
+    "state": "LA",
+    "population": 85422
+  },
+  {
+    "slug": "lake-forest",
+    "name": "Lake Forest",
+    "state": "CA",
+    "population": 88854
+  },
+  {
+    "slug": "lake-havasu-city",
+    "name": "Lake Havasu City",
+    "state": "AZ",
+    "population": 60000
+  },
+  {
+    "slug": "lake-oswego",
+    "name": "Lake Oswego",
+    "state": "OR",
+    "population": 41025
+  },
+  {
+    "slug": "lakeland",
+    "name": "Lakeland",
+    "state": "FL",
+    "population": 118521
+  },
+  {
+    "slug": "lakeville",
+    "name": "Lakeville",
+    "state": "MN",
+    "population": 73094
+  },
+  {
+    "slug": "lakewood",
+    "name": "Lakewood",
+    "state": "CO",
+    "population": 164013
+  },
+  {
+    "slug": "lakewood-nj",
+    "name": "Lakewood",
+    "state": "NJ",
+    "population": 135158
+  },
+  {
+    "slug": "lakewood-oh",
+    "name": "Lakewood",
+    "state": "OH",
+    "population": 49678
+  },
+  {
+    "slug": "lakewood-wa",
+    "name": "Lakewood",
+    "state": "WA",
+    "population": 64550
+  },
+  {
+    "slug": "lancaster",
+    "name": "Lancaster",
+    "state": "CA",
+    "population": 180486
+  },
+  {
+    "slug": "langley",
+    "name": "Langley",
+    "state": "BC",
+    "population": 132603
+  },
+  {
+    "slug": "lansing",
+    "name": "Lansing",
+    "state": "MI",
+    "population": 112644
+  },
+  {
+    "slug": "laredo",
+    "name": "Laredo",
+    "state": "TX",
+    "population": 261295
+  },
+  {
+    "slug": "largo",
+    "name": "Largo",
+    "state": "FL",
+    "population": 86863
+  },
+  {
+    "slug": "las-cruces",
+    "name": "Las Cruces",
+    "state": "NM",
+    "population": 115545
+  },
+  {
+    "slug": "las-vegas",
+    "name": "Las Vegas",
+    "state": "NV",
+    "population": 660929
+  },
+  {
+    "slug": "lauderhill",
+    "name": "Lauderhill",
+    "state": "FL",
+    "population": 74684
+  },
+  {
+    "slug": "laval",
+    "name": "Laval",
+    "state": "QC",
+    "population": 438366
+  },
+  {
+    "slug": "lawrence",
+    "name": "Lawrence",
+    "state": "IN",
+    "population": 49156
+  },
+  {
+    "slug": "lawton",
+    "name": "Lawton",
+    "state": "OK",
+    "population": 97098
+  },
+  {
+    "slug": "layton",
+    "name": "Layton",
+    "state": "UT",
+    "population": 82426
+  },
+  {
+    "slug": "league-city",
+    "name": "League City",
+    "state": "TX",
+    "population": 118734
+  },
+  {
+    "slug": "lees-summit",
+    "name": "Lee's Summit",
+    "state": "MO",
+    "population": 105067
+  },
+  {
+    "slug": "lehi",
+    "name": "Lehi",
+    "state": "UT",
+    "population": 87039
+  },
+  {
+    "slug": "lenexa",
+    "name": "Lenexa",
+    "state": "KS",
+    "population": 58705
+  },
+  {
+    "slug": "lethbridge",
+    "name": "Lethbridge",
+    "state": "AB",
+    "population": 101482
+  },
+  {
+    "slug": "levis",
+    "name": "Levis",
+    "state": "QC",
+    "population": 149683
+  },
+  {
+    "slug": "lewiston",
+    "name": "Lewiston",
+    "state": "ID",
+    "population": 34340
+  },
+  {
+    "slug": "lewisville",
+    "name": "Lewisville",
+    "state": "TX",
+    "population": 120796
+  },
+  {
+    "slug": "lexington",
+    "name": "Lexington",
+    "state": "KY",
+    "population": 323780
+  },
+  {
+    "slug": "lincoln",
+    "name": "Lincoln",
+    "state": "NE",
+    "population": 295222
+  },
+  {
+    "slug": "little-rock",
+    "name": "Little Rock",
+    "state": "AR",
+    "population": 206750
+  },
+  {
+    "slug": "littleton",
+    "name": "Littleton",
+    "state": "CO",
+    "population": 48910
+  },
+  {
+    "slug": "livermore",
+    "name": "Livermore",
+    "state": "CA",
+    "population": 90189
+  },
+  {
+    "slug": "livonia",
+    "name": "Livonia",
+    "state": "MI",
+    "population": 95586
+  },
+  {
+    "slug": "lodi",
+    "name": "Lodi",
+    "state": "CA",
+    "population": 66348
+  },
+  {
+    "slug": "london",
+    "name": "London",
+    "state": "ON",
+    "population": 422324
+  },
+  {
+    "slug": "long-beach",
+    "name": "Long Beach",
+    "state": "CA",
+    "population": 451307
+  },
+  {
+    "slug": "long-beach-ny",
+    "name": "Long Beach",
+    "state": "NY",
+    "population": 33454
+  },
+  {
+    "slug": "longmont",
+    "name": "Longmont",
+    "state": "CO",
+    "population": 105117
+  },
+  {
+    "slug": "longueuil",
+    "name": "Longueuil",
+    "state": "QC",
+    "population": 254483
+  },
+  {
+    "slug": "longview",
+    "name": "Longview",
+    "state": "WA",
+    "population": 39400
+  },
+  {
+    "slug": "lorain",
+    "name": "Lorain",
+    "state": "OH",
+    "population": 64310
+  },
+  {
+    "slug": "los-angeles",
+    "name": "Los Angeles",
+    "state": "CA",
+    "population": 3878839
+  },
+  {
+    "slug": "louisville",
+    "name": "Louisville",
+    "state": "KY",
+    "population": 622981
+  },
+  {
+    "slug": "loveland",
+    "name": "Loveland",
+    "state": "CO",
+    "population": 80537
+  },
+  {
+    "slug": "lowell",
+    "name": "Lowell",
+    "state": "MA",
+    "population": 115554
+  },
+  {
+    "slug": "lubbock",
+    "name": "Lubbock",
+    "state": "TX",
+    "population": 270230
+  },
+  {
+    "slug": "lynchburg",
+    "name": "Lynchburg",
+    "state": "VA",
+    "population": 84656
+  },
+  {
+    "slug": "lynnwood",
+    "name": "Lynnwood",
+    "state": "WA",
+    "population": 44200
+  },
+  {
+    "slug": "lynwood",
+    "name": "Lynwood",
+    "state": "CA",
+    "population": 72828
+  },
+  {
+    "slug": "madera",
+    "name": "Madera",
+    "state": "CA",
+    "population": 52433
+  },
+  {
+    "slug": "madison",
+    "name": "Madison",
+    "state": "WI",
+    "population": 272903
+  },
+  {
+    "slug": "madison-al",
+    "name": "Madison",
+    "state": "AL",
+    "population": 63757
+  },
+  {
+    "slug": "manassas",
+    "name": "Manassas",
+    "state": "VA",
+    "population": 42772
+  },
+  {
+    "slug": "manchester-nh",
+    "name": "Manchester",
+    "state": "NH",
+    "population": 115644
+  },
+  {
+    "slug": "manhattan-ks",
+    "name": "Manhattan",
+    "state": "KS",
+    "population": 55024
+  },
+  {
+    "slug": "mansfield",
+    "name": "Mansfield",
+    "state": "OH",
+    "population": 46426
+  },
+  {
+    "slug": "manteca",
+    "name": "Manteca",
+    "state": "CA",
+    "population": 91402
+  },
+  {
+    "slug": "maple-grove",
+    "name": "Maple Grove",
+    "state": "MN",
+    "population": 80818
+  },
+  {
+    "slug": "maple-ridge",
+    "name": "Maple Ridge",
+    "state": "BC",
+    "population": 82256
+  },
+  {
+    "slug": "maricopa",
+    "name": "Maricopa",
+    "state": "AZ",
+    "population": 68500
+  },
+  {
+    "slug": "marion",
+    "name": "Marion",
+    "state": "IA",
+    "population": 43297
+  },
+  {
+    "slug": "markham",
+    "name": "Markham",
+    "state": "ON",
+    "population": 338503
+  },
+  {
+    "slug": "marysville-wa",
+    "name": "Marysville",
+    "state": "WA",
+    "population": 75430
+  },
+  {
+    "slug": "mckinney",
+    "name": "McKinney",
+    "state": "TX",
+    "population": 218174
+  },
+  {
+    "slug": "mcminnville",
+    "name": "McMinnville",
+    "state": "OR",
+    "population": 37141
+  },
+  {
+    "slug": "medford",
+    "name": "Medford",
+    "state": "OR",
+    "population": 92073
+  },
+  {
+    "slug": "melbourne",
+    "name": "Melbourne",
+    "state": "AU",
+    "population": 5078000
+  },
+  {
+    "slug": "melbourne-fl",
+    "name": "Melbourne",
+    "state": "FL",
+    "population": 86420
+  },
+  {
+    "slug": "memphis",
+    "name": "Memphis",
+    "state": "TN",
+    "population": 633104
+  },
+  {
+    "slug": "menifee",
+    "name": "Menifee",
+    "state": "CA",
+    "population": 112169
+  },
+  {
+    "slug": "mentor",
+    "name": "Mentor",
+    "state": "OH",
+    "population": 46927
+  },
+  {
+    "slug": "merced",
+    "name": "Merced",
+    "state": "CA",
+    "population": 86333
+  },
+  {
+    "slug": "meriden",
+    "name": "Meriden",
+    "state": "CT",
+    "population": 60850
+  },
+  {
+    "slug": "meridian",
+    "name": "Meridian",
+    "state": "ID",
+    "population": 132851
+  },
+  {
+    "slug": "mesa",
+    "name": "Mesa",
+    "state": "AZ",
+    "population": 511648
+  },
+  {
+    "slug": "mesquite",
+    "name": "Mesquite",
+    "state": "TX",
+    "population": 154671
+  },
+  {
+    "slug": "metairie",
+    "name": "Metairie",
+    "state": "LA",
+    "population": 143507
+  },
+  {
+    "slug": "miami",
+    "name": "Miami",
+    "state": "FL",
+    "population": 455924
+  },
+  {
+    "slug": "miami-gardens",
+    "name": "Miami Gardens",
+    "state": "FL",
+    "population": 112514
+  },
+  {
+    "slug": "middletown-ct",
+    "name": "Middletown",
+    "state": "CT",
+    "population": 49364
+  },
+  {
+    "slug": "middletown-ny",
+    "name": "Middletown",
+    "state": "NY",
+    "population": 29441
+  },
+  {
+    "slug": "middletown-oh",
+    "name": "Middletown",
+    "state": "OH",
+    "population": 48694
+  },
+  {
+    "slug": "midland",
+    "name": "Midland",
+    "state": "TX",
+    "population": 150344
+  },
+  {
+    "slug": "midwest-city",
+    "name": "Midwest City",
+    "state": "OK",
+    "population": 58795
+  },
+  {
+    "slug": "milford-ct",
+    "name": "Milford",
+    "state": "CT",
+    "population": 54503
+  },
+  {
+    "slug": "millcreek",
+    "name": "Millcreek",
+    "state": "UT",
+    "population": 63535
+  },
+  {
+    "slug": "milpitas",
+    "name": "Milpitas",
+    "state": "CA",
+    "population": 81059
+  },
+  {
+    "slug": "milton",
+    "name": "Milton",
+    "state": "ON",
+    "population": 132979
+  },
+  {
+    "slug": "milwaukee",
+    "name": "Milwaukee",
+    "state": "WI",
+    "population": 577222
+  },
+  {
+    "slug": "minneapolis",
+    "name": "Minneapolis",
+    "state": "MN",
+    "population": 429954
+  },
+  {
+    "slug": "minnetonka",
+    "name": "Minnetonka",
+    "state": "MN",
+    "population": 54949
+  },
+  {
+    "slug": "miramar",
+    "name": "Miramar",
+    "state": "FL",
+    "population": 145051
+  },
+  {
+    "slug": "mishawaka",
+    "name": "Mishawaka",
+    "state": "IN",
+    "population": 51063
+  },
+  {
+    "slug": "mission",
+    "name": "Mission",
+    "state": "BC",
+    "population": 44261
+  },
+  {
+    "slug": "mission-viejo",
+    "name": "Mission Viejo",
+    "state": "CA",
+    "population": 95290
+  },
+  {
+    "slug": "mississauga",
+    "name": "Mississauga",
+    "state": "ON",
+    "population": 717961
+  },
+  {
+    "slug": "mobile",
+    "name": "Mobile",
+    "state": "AL",
+    "population": 187041
+  },
+  {
+    "slug": "modesto",
+    "name": "Modesto",
+    "state": "CA",
+    "population": 218464
+  },
+  {
+    "slug": "moncton",
+    "name": "Moncton",
+    "state": "NB",
+    "population": 79470
+  },
+  {
+    "slug": "monroe",
+    "name": "Monroe",
+    "state": "LA",
+    "population": 47877
+  },
+  {
+    "slug": "monrovia",
+    "name": "Monrovia",
+    "state": "CA",
+    "population": 38800
+  },
+  {
+    "slug": "montebello",
+    "name": "Montebello",
+    "state": "CA",
+    "population": 64022
+  },
+  {
+    "slug": "monterey-park",
+    "name": "Monterey Park",
+    "state": "CA",
+    "population": 60597
+  },
+  {
+    "slug": "montgomery",
+    "name": "Montgomery",
+    "state": "AL",
+    "population": 200603
+  },
+  {
+    "slug": "montreal",
+    "name": "Montreal",
+    "state": "QC",
+    "population": 1762949
+  },
+  {
+    "slug": "moore",
+    "name": "Moore",
+    "state": "OK",
+    "population": 62793
+  },
+  {
+    "slug": "moreno-valley",
+    "name": "Moreno Valley",
+    "state": "CA",
+    "population": 216751
+  },
+  {
+    "slug": "morgantown",
+    "name": "Morgantown",
+    "state": "WV",
+    "population": 30955
+  },
+  {
+    "slug": "mount-vernon-ny",
+    "name": "Mount Vernon",
+    "state": "NY",
+    "population": 73893
+  },
+  {
+    "slug": "mount-vernon-wa",
+    "name": "Mount Vernon",
+    "state": "WA",
+    "population": 38500
+  },
+  {
+    "slug": "mountain-view",
+    "name": "Mountain View",
+    "state": "CA",
+    "population": 82376
+  },
+  {
+    "slug": "muncie",
+    "name": "Muncie",
+    "state": "IN",
+    "population": 65194
+  },
+  {
+    "slug": "murfreesboro",
+    "name": "Murfreesboro",
+    "state": "TN",
+    "population": 163377
+  },
+  {
+    "slug": "murray",
+    "name": "Murray",
+    "state": "UT",
+    "population": 50637
+  },
+  {
+    "slug": "murrieta",
+    "name": "Murrieta",
+    "state": "CA",
+    "population": 116655
+  },
+  {
+    "slug": "muskogee",
+    "name": "Muskogee",
+    "state": "OK",
+    "population": 36289
+  },
+  {
+    "slug": "nampa",
+    "name": "Nampa",
+    "state": "ID",
+    "population": 111039
+  },
+  {
+    "slug": "nanaimo",
+    "name": "Nanaimo",
+    "state": "BC",
+    "population": 99863
+  },
+  {
+    "slug": "napa",
+    "name": "Napa",
+    "state": "CA",
+    "population": 78340
+  },
+  {
+    "slug": "naperville",
+    "name": "Naperville",
+    "state": "IL",
+    "population": 152203
+  },
+  {
+    "slug": "nashua",
+    "name": "Nashua",
+    "state": "NH",
+    "population": 91322
+  },
+  {
+    "slug": "nashville",
+    "name": "Nashville",
+    "state": "TN",
+    "population": 689447
+  },
+  {
+    "slug": "national-city",
+    "name": "National City",
+    "state": "CA",
+    "population": 62831
+  },
+  {
+    "slug": "new-albany",
+    "name": "New Albany",
+    "state": "IN",
+    "population": 38309
+  },
+  {
+    "slug": "new-berlin",
+    "name": "New Berlin",
+    "state": "WI",
+    "population": 40920
+  },
+  {
+    "slug": "new-braunfels",
+    "name": "New Braunfels",
+    "state": "TX",
+    "population": 102776
+  },
+  {
+    "slug": "new-britain",
+    "name": "New Britain",
+    "state": "CT",
+    "population": 75315
+  },
+  {
+    "slug": "new-brunswick",
+    "name": "New Brunswick",
+    "state": "NJ",
+    "population": 58058
+  },
+  {
+    "slug": "new-haven",
+    "name": "New Haven",
+    "state": "CT",
+    "population": 140023
+  },
+  {
+    "slug": "new-orleans",
+    "name": "New Orleans",
+    "state": "LA",
+    "population": 383997
+  },
+  {
+    "slug": "new-rochelle",
+    "name": "New Rochelle",
+    "state": "NY",
+    "population": 83881
+  },
+  {
+    "slug": "new-westminster",
+    "name": "New Westminster",
+    "state": "BC",
+    "population": 78916
+  },
+  {
+    "slug": "new-york",
+    "name": "New York",
+    "state": "NY",
+    "population": 8478105
+  },
+  {
+    "slug": "newark",
+    "name": "Newark",
+    "state": "NJ",
+    "population": 311549
+  },
+  {
+    "slug": "newark-ca",
+    "name": "Newark",
+    "state": "CA",
+    "population": 50694
+  },
+  {
+    "slug": "newark-oh",
+    "name": "Newark",
+    "state": "OH",
+    "population": 50780
+  },
+  {
+    "slug": "newburgh",
+    "name": "Newburgh",
+    "state": "NY",
+    "population": 28856
+  },
+  {
+    "slug": "newport-beach",
+    "name": "Newport Beach",
+    "state": "CA",
+    "population": 85239
+  },
+  {
+    "slug": "newport-news",
+    "name": "Newport News",
+    "state": "VA",
+    "population": 186247
+  },
+  {
+    "slug": "niagara-falls",
+    "name": "Niagara Falls",
+    "state": "ON",
+    "population": 88071
+  },
+  {
+    "slug": "niagara-falls-ny",
+    "name": "Niagara Falls",
+    "state": "NY",
+    "population": 47512
+  },
+  {
+    "slug": "nicholasville",
+    "name": "Nicholasville",
+    "state": "KY",
+    "population": 34113
+  },
+  {
+    "slug": "noblesville",
+    "name": "Noblesville",
+    "state": "IN",
+    "population": 74804
+  },
+  {
+    "slug": "norfolk",
+    "name": "Norfolk",
+    "state": "VA",
+    "population": 244076
+  },
+  {
+    "slug": "norfolk-ne",
+    "name": "Norfolk",
+    "state": "NE",
+    "population": 24746
+  },
+  {
+    "slug": "norman",
+    "name": "Norman",
+    "state": "OK",
+    "population": 131038
+  },
+  {
+    "slug": "north-charleston",
+    "name": "North Charleston",
+    "state": "SC",
+    "population": 120889
+  },
+  {
+    "slug": "north-las-vegas",
+    "name": "North Las Vegas",
+    "state": "NV",
+    "population": 282870
+  },
+  {
+    "slug": "north-little-rock",
+    "name": "North Little Rock",
+    "state": "AR",
+    "population": 66075
+  },
+  {
+    "slug": "north-platte",
+    "name": "North Platte",
+    "state": "NE",
+    "population": 24210
+  },
+  {
+    "slug": "north-vancouver",
+    "name": "North Vancouver",
+    "state": "BC",
+    "population": 58120
+  },
+  {
+    "slug": "northglenn",
+    "name": "Northglenn",
+    "state": "CO",
+    "population": 40166
+  },
+  {
+    "slug": "norwalk-ca",
+    "name": "Norwalk",
+    "state": "CA",
+    "population": 105549
+  },
+  {
+    "slug": "norwalk-ct",
+    "name": "Norwalk",
+    "state": "CT",
+    "population": 91184
+  },
+  {
+    "slug": "oakland",
+    "name": "Oakland",
+    "state": "CA",
+    "population": 433031
+  },
+  {
+    "slug": "oakville",
+    "name": "Oakville",
+    "state": "ON",
+    "population": 213759
+  },
+  {
+    "slug": "ocala",
+    "name": "Ocala",
+    "state": "FL",
+    "population": 68185
+  },
+  {
+    "slug": "oceanside",
+    "name": "Oceanside",
+    "state": "CA",
+    "population": 179681
+  },
+  {
+    "slug": "ocoee",
+    "name": "Ocoee",
+    "state": "FL",
+    "population": 52137
+  },
+  {
+    "slug": "odessa",
+    "name": "Odessa",
+    "state": "TX",
+    "population": 131024
+  },
+  {
+    "slug": "ofallon",
+    "name": "OFallon",
+    "state": "MO",
+    "population": 93907
+  },
+  {
+    "slug": "ogden",
+    "name": "Ogden",
+    "state": "UT",
+    "population": 91736
+  },
+  {
+    "slug": "oklahoma-city",
+    "name": "Oklahoma City",
+    "state": "OK",
+    "population": 702767
+  },
+  {
+    "slug": "olathe",
+    "name": "Olathe",
+    "state": "KS",
+    "population": 148571
+  },
+  {
+    "slug": "olympia",
+    "name": "Olympia",
+    "state": "WA",
+    "population": 55605
+  },
+  {
+    "slug": "omaha",
+    "name": "Omaha",
+    "state": "NE",
+    "population": 486051
+  },
+  {
+    "slug": "ontario",
+    "name": "Ontario",
+    "state": "CA",
+    "population": 181058
+  },
+  {
+    "slug": "oregon-city",
+    "name": "Oregon City",
+    "state": "OR",
+    "population": 38203
+  },
+  {
+    "slug": "orem",
+    "name": "Orem",
+    "state": "UT",
+    "population": 103467
+  },
+  {
+    "slug": "orlando",
+    "name": "Orlando",
+    "state": "FL",
+    "population": 316995
+  },
+  {
+    "slug": "oshawa",
+    "name": "Oshawa",
+    "state": "ON",
+    "population": 175383
+  },
+  {
+    "slug": "oshkosh",
+    "name": "Oshkosh",
+    "state": "WI",
+    "population": 67623
+  },
+  {
+    "slug": "ottawa",
+    "name": "Ottawa",
+    "state": "ON",
+    "population": 1017449
+  },
+  {
+    "slug": "overland-park",
+    "name": "Overland Park",
+    "state": "KS",
+    "population": 199477
+  },
+  {
+    "slug": "owensboro",
+    "name": "Owensboro",
+    "state": "KY",
+    "population": 60689
+  },
+  {
+    "slug": "oxnard",
+    "name": "Oxnard",
+    "state": "CA",
+    "population": 206063
+  },
+  {
+    "slug": "palm-bay",
+    "name": "Palm Bay",
+    "state": "FL",
+    "population": 128595
+  },
+  {
+    "slug": "palm-coast",
+    "name": "Palm Coast",
+    "state": "FL",
+    "population": 98814
+  },
+  {
+    "slug": "palm-harbor",
+    "name": "Palm Harbor",
+    "state": "FL",
+    "population": 61538
+  },
+  {
+    "slug": "palmdale",
+    "name": "Palmdale",
+    "state": "CA",
+    "population": 175197
+  },
+  {
+    "slug": "palo-alto",
+    "name": "Palo Alto",
+    "state": "CA",
+    "population": 68572
+  },
+  {
+    "slug": "papillion",
+    "name": "Papillion",
+    "state": "NE",
+    "population": 25948
+  },
+  {
+    "slug": "paramount",
+    "name": "Paramount",
+    "state": "CA",
+    "population": 54980
+  },
+  {
+    "slug": "parker",
+    "name": "Parker",
+    "state": "CO",
+    "population": 64902
+  },
+  {
+    "slug": "parma",
+    "name": "Parma",
+    "state": "OH",
+    "population": 79350
+  },
+  {
+    "slug": "pasadena-ca",
+    "name": "Pasadena",
+    "state": "CA",
+    "population": 138699
+  },
+  {
+    "slug": "pasadena-tx",
+    "name": "Pasadena",
+    "state": "TX",
+    "population": 154430
+  },
+  {
+    "slug": "pasco",
+    "name": "Pasco",
+    "state": "WA",
+    "population": 83938
+  },
+  {
+    "slug": "passaic",
+    "name": "Passaic",
+    "state": "NJ",
+    "population": 72540
+  },
+  {
+    "slug": "paterson",
+    "name": "Paterson",
+    "state": "NJ",
+    "population": 159732
+  },
+  {
+    "slug": "pawtucket",
+    "name": "Pawtucket",
+    "state": "RI",
+    "population": 75604
+  },
+  {
+    "slug": "pearl-city",
+    "name": "Pearl City",
+    "state": "HI",
+    "population": 47698
+  },
+  {
+    "slug": "pearland",
+    "name": "Pearland",
+    "state": "TX",
+    "population": 138046
+  },
+  {
+    "slug": "pembroke-pines",
+    "name": "Pembroke Pines",
+    "state": "FL",
+    "population": 173243
+  },
+  {
+    "slug": "pensacola",
+    "name": "Pensacola",
+    "state": "FL",
+    "population": 54312
+  },
+  {
+    "slug": "peoria-az",
+    "name": "Peoria",
+    "state": "AZ",
+    "population": 195985
+  },
+  {
+    "slug": "peoria-il",
+    "name": "Peoria",
+    "state": "IL",
+    "population": 113150
+  },
+  {
+    "slug": "perris",
+    "name": "Perris",
+    "state": "CA",
+    "population": 83025
+  },
+  {
+    "slug": "perth",
+    "name": "Perth",
+    "state": "AU",
+    "population": 2125000
+  },
+  {
+    "slug": "perth-amboy",
+    "name": "Perth Amboy",
+    "state": "NJ",
+    "population": 54286
+  },
+  {
+    "slug": "peterborough",
+    "name": "Peterborough",
+    "state": "ON",
+    "population": 83651
+  },
+  {
+    "slug": "philadelphia",
+    "name": "Philadelphia",
+    "state": "PA",
+    "population": 1573916
+  },
+  {
+    "slug": "phoenix",
+    "name": "Phoenix",
+    "state": "AZ",
+    "population": 1658422
+  },
+  {
+    "slug": "pico-rivera",
+    "name": "Pico Rivera",
+    "state": "CA",
+    "population": 62088
+  },
+  {
+    "slug": "pine-bluff",
+    "name": "Pine Bluff",
+    "state": "AR",
+    "population": 40141
+  },
+  {
+    "slug": "pitt-meadows",
+    "name": "Pitt Meadows",
+    "state": "BC",
+    "population": 19146
+  },
+  {
+    "slug": "pittsburg",
+    "name": "Pittsburg",
+    "state": "CA",
+    "population": 77973
+  },
+  {
+    "slug": "pittsburg-ca",
+    "name": "Pittsburg",
+    "state": "CA",
+    "population": 77973
+  },
+  {
+    "slug": "pittsburgh",
+    "name": "Pittsburgh",
+    "state": "PA",
+    "population": 302205
+  },
+  {
+    "slug": "placentia",
+    "name": "Placentia",
+    "state": "CA",
+    "population": 53559
+  },
+  {
+    "slug": "plano",
+    "name": "Plano",
+    "state": "TX",
+    "population": 290475
+  },
+  {
+    "slug": "plantation",
+    "name": "Plantation",
+    "state": "FL",
+    "population": 97276
+  },
+  {
+    "slug": "pleasant-grove",
+    "name": "Pleasant Grove",
+    "state": "UT",
+    "population": 41776
+  },
+  {
+    "slug": "pleasanton",
+    "name": "Pleasanton",
+    "state": "CA",
+    "population": 79975
+  },
+  {
+    "slug": "plymouth-mn",
+    "name": "Plymouth",
+    "state": "MN",
+    "population": 81026
+  },
+  {
+    "slug": "pocatello",
+    "name": "Pocatello",
+    "state": "ID",
+    "population": 57443
+  },
+  {
+    "slug": "pomona",
+    "name": "Pomona",
+    "state": "CA",
+    "population": 154080
+  },
+  {
+    "slug": "pompano-beach",
+    "name": "Pompano Beach",
+    "state": "FL",
+    "population": 115023
+  },
+  {
+    "slug": "ponca-city",
+    "name": "Ponca City",
+    "state": "OK",
+    "population": 24762
+  },
+  {
+    "slug": "port-coquitlam",
+    "name": "Port Coquitlam",
+    "state": "BC",
+    "population": 61498
+  },
+  {
+    "slug": "port-moody",
+    "name": "Port Moody",
+    "state": "BC",
+    "population": 33535
+  },
+  {
+    "slug": "port-st-lucie",
+    "name": "Port St Lucie",
+    "state": "FL",
+    "population": 236299
+  },
+  {
+    "slug": "portage",
+    "name": "Portage",
+    "state": "IN",
+    "population": 38164
+  },
+  {
+    "slug": "portland",
+    "name": "Portland",
+    "state": "OR",
+    "population": 641162
+  },
+  {
+    "slug": "portland-me",
+    "name": "Portland",
+    "state": "ME",
+    "population": 68408
+  },
+  {
+    "slug": "portsmouth",
+    "name": "Portsmouth",
+    "state": "VA",
+    "population": 98915
+  },
+  {
+    "slug": "post-falls",
+    "name": "Post Falls",
+    "state": "ID",
+    "population": 42194
+  },
+  {
+    "slug": "poughkeepsie",
+    "name": "Poughkeepsie",
+    "state": "NY",
+    "population": 32736
+  },
+  {
+    "slug": "prescott",
+    "name": "Prescott",
+    "state": "AZ",
+    "population": 47500
+  },
+  {
+    "slug": "prescott-valley",
+    "name": "Prescott Valley",
+    "state": "AZ",
+    "population": 54600
+  },
+  {
+    "slug": "prince-george",
+    "name": "Prince George",
+    "state": "BC",
+    "population": 89490
+  },
+  {
+    "slug": "providence",
+    "name": "Providence",
+    "state": "RI",
+    "population": 190934
+  },
+  {
+    "slug": "provo",
+    "name": "Provo",
+    "state": "UT",
+    "population": 117335
+  },
+  {
+    "slug": "pueblo",
+    "name": "Pueblo",
+    "state": "CO",
+    "population": 114320
+  },
+  {
+    "slug": "puyallup",
+    "name": "Puyallup",
+    "state": "WA",
+    "population": 46100
+  },
+  {
+    "slug": "quebec-city",
+    "name": "Quebec City",
+    "state": "QC",
+    "population": 549459
+  },
+  {
+    "slug": "queen-creek",
+    "name": "Queen Creek",
+    "state": "AZ",
+    "population": 78100
+  },
+  {
+    "slug": "racine",
+    "name": "Racine",
+    "state": "WI",
+    "population": 76893
+  },
+  {
+    "slug": "raleigh",
+    "name": "Raleigh",
+    "state": "NC",
+    "population": 482295
+  },
+  {
+    "slug": "rancho-cordova",
+    "name": "Rancho Cordova",
+    "state": "CA",
+    "population": 83756
+  },
+  {
+    "slug": "rancho-cucamonga",
+    "name": "Rancho Cucamonga",
+    "state": "CA",
+    "population": 180505
+  },
+  {
+    "slug": "rancho-palos-verdes",
+    "name": "Rancho Palos Verdes",
+    "state": "CA",
+    "population": 42500
+  },
+  {
+    "slug": "reading",
+    "name": "Reading",
+    "state": "PA",
+    "population": 95112
+  },
+  {
+    "slug": "red-deer",
+    "name": "Red Deer",
+    "state": "AB",
+    "population": 106782
+  },
+  {
+    "slug": "redding",
+    "name": "Redding",
+    "state": "CA",
+    "population": 93218
+  },
+  {
+    "slug": "redlands",
+    "name": "Redlands",
+    "state": "CA",
+    "population": 71513
+  },
+  {
+    "slug": "redmond",
+    "name": "Redmond",
+    "state": "WA",
+    "population": 78168
+  },
+  {
+    "slug": "redmond-or",
+    "name": "Redmond",
+    "state": "OR",
+    "population": 41212
+  },
+  {
+    "slug": "redondo-beach",
+    "name": "Redondo Beach",
+    "state": "CA",
+    "population": 67963
+  },
+  {
+    "slug": "redwood-city",
+    "name": "Redwood City",
+    "state": "CA",
+    "population": 84518
+  },
+  {
+    "slug": "regina",
+    "name": "Regina",
+    "state": "SK",
+    "population": 226404
+  },
+  {
+    "slug": "reno",
+    "name": "Reno",
+    "state": "NV",
+    "population": 274037
+  },
+  {
+    "slug": "renton",
+    "name": "Renton",
+    "state": "WA",
+    "population": 108820
+  },
+  {
+    "slug": "repentigny",
+    "name": "Repentigny",
+    "state": "QC",
+    "population": 86721
+  },
+  {
+    "slug": "rialto",
+    "name": "Rialto",
+    "state": "CA",
+    "population": 106223
+  },
+  {
+    "slug": "richardson",
+    "name": "Richardson",
+    "state": "TX",
+    "population": 121323
+  },
+  {
+    "slug": "richland",
+    "name": "Richland",
+    "state": "WA",
+    "population": 66211
+  },
+  {
+    "slug": "richmond",
+    "name": "Richmond",
+    "state": "BC",
+    "population": 209937
+  },
+  {
+    "slug": "richmond-ky",
+    "name": "Richmond",
+    "state": "KY",
+    "population": 38287
+  },
+  {
+    "slug": "riverside",
+    "name": "Riverside",
+    "state": "CA",
+    "population": 319504
+  },
+  {
+    "slug": "riverton",
+    "name": "Riverton",
+    "state": "UT",
+    "population": 47388
+  },
+  {
+    "slug": "roanoke",
+    "name": "Roanoke",
+    "state": "VA",
+    "population": 102622
+  },
+  {
+    "slug": "rochester",
+    "name": "Rochester",
+    "state": "NY",
+    "population": 211328
+  },
+  {
+    "slug": "rochester-mn",
+    "name": "Rochester",
+    "state": "MN",
+    "population": 125790
+  },
+  {
+    "slug": "rockford",
+    "name": "Rockford",
+    "state": "IL",
+    "population": 148655
+  },
+  {
+    "slug": "rocklin",
+    "name": "Rocklin",
+    "state": "CA",
+    "population": 73012
+  },
+  {
+    "slug": "rockville",
+    "name": "Rockville",
+    "state": "MD",
+    "population": 66940
+  },
+  {
+    "slug": "rogers",
+    "name": "Rogers",
+    "state": "AR",
+    "population": 76832
+  },
+  {
+    "slug": "rosemead",
+    "name": "Rosemead",
+    "state": "CA",
+    "population": 53505
+  },
+  {
+    "slug": "roseville",
+    "name": "Roseville",
+    "state": "CA",
+    "population": 156888
+  },
+  {
+    "slug": "round-rock",
+    "name": "Round Rock",
+    "state": "TX",
+    "population": 143970
+  },
+  {
+    "slug": "saanich",
+    "name": "Saanich",
+    "state": "BC",
+    "population": 117735
+  },
+  {
+    "slug": "sacramento",
+    "name": "Sacramento",
+    "state": "CA",
+    "population": 528001
+  },
+  {
+    "slug": "saguenay",
+    "name": "Saguenay",
+    "state": "QC",
+    "population": 144723
+  },
+  {
+    "slug": "saint-john",
+    "name": "Saint John",
+    "state": "NB",
+    "population": 69895
+  },
+  {
+    "slug": "salem",
+    "name": "Salem",
+    "state": "OR",
+    "population": 182692
+  },
+  {
+    "slug": "salina",
+    "name": "Salina",
+    "state": "KS",
+    "population": 45679
+  },
+  {
+    "slug": "salinas",
+    "name": "Salinas",
+    "state": "CA",
+    "population": 168046
+  },
+  {
+    "slug": "salt-lake-city",
+    "name": "Salt Lake City",
+    "state": "UT",
+    "population": 212241
+  },
+  {
+    "slug": "sammamish",
+    "name": "Sammamish",
+    "state": "WA",
+    "population": 66441
+  },
+  {
+    "slug": "san-angelo",
+    "name": "San Angelo",
+    "state": "TX",
+    "population": 103455
+  },
+  {
+    "slug": "san-antonio",
+    "name": "San Antonio",
+    "state": "TX",
+    "population": 1495295
+  },
+  {
+    "slug": "san-bernardino",
+    "name": "San Bernardino",
+    "state": "CA",
+    "population": 222101
+  },
+  {
+    "slug": "san-clemente",
+    "name": "San Clemente",
+    "state": "CA",
+    "population": 65144
+  },
+  {
+    "slug": "san-diego",
+    "name": "San Diego",
+    "state": "CA",
+    "population": 1388320
+  },
+  {
+    "slug": "san-dimas",
+    "name": "San Dimas",
+    "state": "CA",
+    "population": 36334
+  },
+  {
+    "slug": "san-francisco",
+    "name": "San Francisco",
+    "state": "CA",
+    "population": 865933
+  },
+  {
+    "slug": "san-jacinto",
+    "name": "San Jacinto",
+    "state": "CA",
+    "population": 53763
+  },
+  {
+    "slug": "san-jose",
+    "name": "San Jose",
+    "state": "CA",
+    "population": 983489
+  },
+  {
+    "slug": "san-juan-capistrano",
+    "name": "San Juan Capistrano",
+    "state": "CA",
+    "population": 36821
+  },
+  {
+    "slug": "san-leandro",
+    "name": "San Leandro",
+    "state": "CA",
+    "population": 91799
+  },
+  {
+    "slug": "san-luis-obispo",
+    "name": "San Luis Obispo",
+    "state": "CA",
+    "population": 47382
+  },
+  {
+    "slug": "san-marcos-ca",
+    "name": "San Marcos",
+    "state": "CA",
+    "population": 101210
+  },
+  {
+    "slug": "san-marcos-tx",
+    "name": "San Marcos",
+    "state": "TX",
+    "population": 78112
+  },
+  {
+    "slug": "san-mateo",
+    "name": "San Mateo",
+    "state": "CA",
+    "population": 105661
+  },
+  {
+    "slug": "san-rafael",
+    "name": "San Rafael",
+    "state": "CA",
+    "population": 62297
+  },
+  {
+    "slug": "san-ramon",
+    "name": "San Ramon",
+    "state": "CA",
+    "population": 86187
+  },
+  {
+    "slug": "san-tan-valley",
+    "name": "San Tan Valley",
+    "state": "AZ",
+    "population": 110900
+  },
+  {
+    "slug": "sandy",
+    "name": "Sandy",
+    "state": "UT",
+    "population": 98122
+  },
+  {
+    "slug": "sandy-springs",
+    "name": "Sandy Springs",
+    "state": "GA",
+    "population": 111091
+  },
+  {
+    "slug": "sanford",
+    "name": "Sanford",
+    "state": "FL",
+    "population": 65296
+  },
+  {
+    "slug": "santa-ana",
+    "name": "Santa Ana",
+    "state": "CA",
+    "population": 309441
+  },
+  {
+    "slug": "santa-barbara",
+    "name": "Santa Barbara",
+    "state": "CA",
+    "population": 90911
+  },
+  {
+    "slug": "santa-clara",
+    "name": "Santa Clara",
+    "state": "CA",
+    "population": 130365
+  },
+  {
+    "slug": "santa-clarita",
+    "name": "Santa Clarita",
+    "state": "CA",
+    "population": 233311
+  },
+  {
+    "slug": "santa-cruz",
+    "name": "Santa Cruz",
+    "state": "CA",
+    "population": 64608
+  },
+  {
+    "slug": "santa-fe",
+    "name": "Santa Fe",
+    "state": "NM",
+    "population": 90504
+  },
+  {
+    "slug": "santa-maria",
+    "name": "Santa Maria",
+    "state": "CA",
+    "population": 112643
+  },
+  {
+    "slug": "santa-rosa",
+    "name": "Santa Rosa",
+    "state": "CA",
+    "population": 181406
+  },
+  {
+    "slug": "saratoga-springs",
+    "name": "Saratoga Springs",
+    "state": "NY",
+    "population": 31194
+  },
+  {
+    "slug": "saskatoon",
+    "name": "Saskatoon",
+    "state": "SK",
+    "population": 266141
+  },
+  {
+    "slug": "savannah",
+    "name": "Savannah",
+    "state": "GA",
+    "population": 149004
+  },
+  {
+    "slug": "schenectady",
+    "name": "Schenectady",
+    "state": "NY",
+    "population": 67875
+  },
+  {
+    "slug": "scottsdale",
+    "name": "Scottsdale",
+    "state": "AZ",
+    "population": 260776
+  },
+  {
+    "slug": "scranton",
+    "name": "Scranton",
+    "state": "PA",
+    "population": 76997
+  },
+  {
+    "slug": "seattle",
+    "name": "Seattle",
+    "state": "WA",
+    "population": 749256
+  },
+  {
+    "slug": "shawnee",
+    "name": "Shawnee",
+    "state": "KS",
+    "population": 69665
+  },
+  {
+    "slug": "shawnee-ok",
+    "name": "Shawnee",
+    "state": "OK",
+    "population": 31511
+  },
+  {
+    "slug": "sheboygan",
+    "name": "Sheboygan",
+    "state": "WI",
+    "population": 50792
+  },
+  {
+    "slug": "shelton",
+    "name": "Shelton",
+    "state": "CT",
+    "population": 42426
+  },
+  {
+    "slug": "sherbrooke",
+    "name": "Sherbrooke",
+    "state": "QC",
+    "population": 172950
+  },
+  {
+    "slug": "shoreline",
+    "name": "Shoreline",
+    "state": "WA",
+    "population": 59450
+  },
+  {
+    "slug": "shreveport",
+    "name": "Shreveport",
+    "state": "LA",
+    "population": 190119
+  },
+  {
+    "slug": "silver-spring",
+    "name": "Silver Spring",
+    "state": "MD",
+    "population": 82680
+  },
+  {
+    "slug": "simi-valley",
+    "name": "Simi Valley",
+    "state": "CA",
+    "population": 131221
+  },
+  {
+    "slug": "singapore",
+    "name": "Singapore",
+    "state": "SG",
+    "population": 5685000
+  },
+  {
+    "slug": "sioux-city",
+    "name": "Sioux City",
+    "state": "IA",
+    "population": 85791
+  },
+  {
+    "slug": "sioux-falls",
+    "name": "Sioux Falls",
+    "state": "SD",
+    "population": 201012
+  },
+  {
+    "slug": "smyrna",
+    "name": "Smyrna",
+    "state": "TN",
+    "population": 58964
+  },
+  {
+    "slug": "south-bend",
+    "name": "South Bend",
+    "state": "IN",
+    "population": 104042
+  },
+  {
+    "slug": "south-el-monte",
+    "name": "South El Monte",
+    "state": "CA",
+    "population": 20791
+  },
+  {
+    "slug": "south-fulton",
+    "name": "South Fulton",
+    "state": "GA",
+    "population": 107436
+  },
+  {
+    "slug": "south-jordan",
+    "name": "South Jordan",
+    "state": "UT",
+    "population": 84939
+  },
+  {
+    "slug": "southaven",
+    "name": "Southaven",
+    "state": "MS",
+    "population": 56544
+  },
+  {
+    "slug": "spanish-fork",
+    "name": "Spanish Fork",
+    "state": "UT",
+    "population": 46509
+  },
+  {
+    "slug": "sparks",
+    "name": "Sparks",
+    "state": "NV",
+    "population": 114311
+  },
+  {
+    "slug": "spokane",
+    "name": "Spokane",
+    "state": "WA",
+    "population": 230160
+  },
+  {
+    "slug": "spokane-valley",
+    "name": "Spokane Valley",
+    "state": "WA",
+    "population": 111772
+  },
+  {
+    "slug": "spring-hill-fl",
+    "name": "Spring Hill",
+    "state": "FL",
+    "population": 116164
+  },
+  {
+    "slug": "spring-hill-tn",
+    "name": "Spring Hill",
+    "state": "TN",
+    "population": 56167
+  },
+  {
+    "slug": "springdale",
+    "name": "Springdale",
+    "state": "AR",
+    "population": 87650
+  },
+  {
+    "slug": "springfield-il",
+    "name": "Springfield",
+    "state": "IL",
+    "population": 116313
+  },
+  {
+    "slug": "springfield-ma",
+    "name": "Springfield",
+    "state": "MA",
+    "population": 155929
+  },
+  {
+    "slug": "springfield-mo",
+    "name": "Springfield",
+    "state": "MO",
+    "population": 169176
+  },
+  {
+    "slug": "springfield-oh",
+    "name": "Springfield",
+    "state": "OH",
+    "population": 58270
+  },
+  {
+    "slug": "springfield-or",
+    "name": "Springfield",
+    "state": "OR",
+    "population": 62756
+  },
+  {
+    "slug": "squamish",
+    "name": "Squamish",
+    "state": "BC",
+    "population": 23819
+  },
+  {
+    "slug": "st-catharines",
+    "name": "St Catharines",
+    "state": "ON",
+    "population": 136803
+  },
+  {
+    "slug": "st-charles",
+    "name": "St Charles",
+    "state": "MO",
+    "population": 74832
+  },
+  {
+    "slug": "st-cloud",
+    "name": "St Cloud",
+    "state": "MN",
+    "population": 70525
+  },
+  {
+    "slug": "st-george",
+    "name": "St George",
+    "state": "UT",
+    "population": 101659
+  },
+  {
+    "slug": "st-johns",
+    "name": "St Johns",
+    "state": "NL",
+    "population": 113948
+  },
+  {
+    "slug": "st-joseph",
+    "name": "St Joseph",
+    "state": "MO",
+    "population": 74000
+  },
+  {
+    "slug": "st-louis",
+    "name": "St Louis",
+    "state": "MO",
+    "population": 293310
+  },
+  {
+    "slug": "st-paul",
+    "name": "St Paul",
+    "state": "MN",
+    "population": 311527
+  },
+  {
+    "slug": "st-peters",
+    "name": "St Peters",
+    "state": "MO",
+    "population": 94827
+  },
+  {
+    "slug": "st-petersburg",
+    "name": "St Petersburg",
+    "state": "FL",
+    "population": 261256
+  },
+  {
+    "slug": "stamford",
+    "name": "Stamford",
+    "state": "CT",
+    "population": 136939
+  },
+  {
+    "slug": "stanton",
+    "name": "Stanton",
+    "state": "CA",
+    "population": 39221
+  },
+  {
+    "slug": "state-college",
+    "name": "State College",
+    "state": "PA",
+    "population": 42034
+  },
+  {
+    "slug": "sterling-heights",
+    "name": "Sterling Heights",
+    "state": "MI",
+    "population": 136146
+  },
+  {
+    "slug": "stillwater",
+    "name": "Stillwater",
+    "state": "OK",
+    "population": 50095
+  },
+  {
+    "slug": "stockton",
+    "name": "Stockton",
+    "state": "CA",
+    "population": 322120
+  },
+  {
+    "slug": "stratford",
+    "name": "Stratford",
+    "state": "CT",
+    "population": 53255
+  },
+  {
+    "slug": "strongsville",
+    "name": "Strongsville",
+    "state": "OH",
+    "population": 46163
+  },
+  {
+    "slug": "suffolk",
+    "name": "Suffolk",
+    "state": "VA",
+    "population": 98135
+  },
+  {
+    "slug": "sugar-land",
+    "name": "Sugar Land",
+    "state": "TX",
+    "population": 113114
+  },
+  {
+    "slug": "sunnyvale",
+    "name": "Sunnyvale",
+    "state": "CA",
+    "population": 159539
+  },
+  {
+    "slug": "sunrise",
+    "name": "Sunrise",
+    "state": "FL",
+    "population": 102527
+  },
+  {
+    "slug": "surprise",
+    "name": "Surprise",
+    "state": "AZ",
+    "population": 157180
+  },
+  {
+    "slug": "surrey",
+    "name": "Surrey",
+    "state": "BC",
+    "population": 568322
+  },
+  {
+    "slug": "sydney",
+    "name": "Sydney",
+    "state": "AU",
+    "population": 5312000
+  },
+  {
+    "slug": "syracuse",
+    "name": "Syracuse",
+    "state": "NY",
+    "population": 148620
+  },
+  {
+    "slug": "tacoma",
+    "name": "Tacoma",
+    "state": "WA",
+    "population": 222690
+  },
+  {
+    "slug": "tallahassee",
+    "name": "Tallahassee",
+    "state": "FL",
+    "population": 203436
+  },
+  {
+    "slug": "tamarac",
+    "name": "Tamarac",
+    "state": "FL",
+    "population": 71897
+  },
+  {
+    "slug": "tampa",
+    "name": "Tampa",
+    "state": "FL",
+    "population": 403364
+  },
+  {
+    "slug": "taylorsville",
+    "name": "Taylorsville",
+    "state": "UT",
+    "population": 59587
+  },
+  {
+    "slug": "temecula",
+    "name": "Temecula",
+    "state": "CA",
+    "population": 110003
+  },
+  {
+    "slug": "tempe",
+    "name": "Tempe",
+    "state": "AZ",
+    "population": 189000
+  },
+  {
+    "slug": "temple-city",
+    "name": "Temple City",
+    "state": "CA",
+    "population": 36781
+  },
+  {
+    "slug": "terre-haute",
+    "name": "Terre Haute",
+    "state": "IN",
+    "population": 59614
+  },
+  {
+    "slug": "terrebonne",
+    "name": "Terrebonne",
+    "state": "QC",
+    "population": 119189
+  },
+  {
+    "slug": "texarkana",
+    "name": "Texarkana",
+    "state": "AR",
+    "population": 30419
+  },
+  {
+    "slug": "thornton",
+    "name": "Thornton",
+    "state": "CO",
+    "population": 150536
+  },
+  {
+    "slug": "thousand-oaks",
+    "name": "Thousand Oaks",
+    "state": "CA",
+    "population": 126966
+  },
+  {
+    "slug": "thunder-bay",
+    "name": "Thunder Bay",
+    "state": "ON",
+    "population": 110172
+  },
+  {
+    "slug": "tigard",
+    "name": "Tigard",
+    "state": "OR",
+    "population": 55767
+  },
+  {
+    "slug": "tokyo",
+    "name": "Tokyo",
+    "state": "JP",
+    "population": 13960000
+  },
+  {
+    "slug": "toledo",
+    "name": "Toledo",
+    "state": "OH",
+    "population": 268508
+  },
+  {
+    "slug": "topeka",
+    "name": "Topeka",
+    "state": "KS",
+    "population": 127939
+  },
+  {
+    "slug": "toronto",
+    "name": "Toronto",
+    "state": "ON",
+    "population": 2794356
+  },
+  {
+    "slug": "torrance",
+    "name": "Torrance",
+    "state": "CA",
+    "population": 148290
+  },
+  {
+    "slug": "torrington-ct",
+    "name": "Torrington",
+    "state": "CT",
+    "population": 36136
+  },
+  {
+    "slug": "town-n-country",
+    "name": "Town n Country",
+    "state": "FL",
+    "population": 88421
+  },
+  {
+    "slug": "tracy",
+    "name": "Tracy",
+    "state": "CA",
+    "population": 97217
+  },
+  {
+    "slug": "trenton",
+    "name": "Trenton",
+    "state": "NJ",
+    "population": 90871
+  },
+  {
+    "slug": "trois-rivieres",
+    "name": "Trois-Rivieres",
+    "state": "QC",
+    "population": 139163
+  },
+  {
+    "slug": "troy",
+    "name": "Troy",
+    "state": "NY",
+    "population": 51401
+  },
+  {
+    "slug": "tualatin",
+    "name": "Tualatin",
+    "state": "OR",
+    "population": 28987
+  },
+  {
+    "slug": "tucson",
+    "name": "Tucson",
+    "state": "AZ",
+    "population": 547239
+  },
+  {
+    "slug": "tulsa",
+    "name": "Tulsa",
+    "state": "OK",
+    "population": 411894
+  },
+  {
+    "slug": "turlock",
+    "name": "Turlock",
+    "state": "CA",
+    "population": 75036
+  },
+  {
+    "slug": "tuscaloosa",
+    "name": "Tuscaloosa",
+    "state": "AL",
+    "population": 111240
+  },
+  {
+    "slug": "tustin",
+    "name": "Tustin",
+    "state": "CA",
+    "population": 79348
+  },
+  {
+    "slug": "twin-falls",
+    "name": "Twin Falls",
+    "state": "ID",
+    "population": 54564
+  },
+  {
+    "slug": "tyler",
+    "name": "Tyler",
+    "state": "TX",
+    "population": 107205
+  },
+  {
+    "slug": "union-city",
+    "name": "Union City",
+    "state": "CA",
+    "population": 75240
+  },
+  {
+    "slug": "union-city-nj",
+    "name": "Union City",
+    "state": "NJ",
+    "population": 73085
+  },
+  {
+    "slug": "upland",
+    "name": "Upland",
+    "state": "CA",
+    "population": 79040
+  },
+  {
+    "slug": "utica",
+    "name": "Utica",
+    "state": "NY",
+    "population": 63660
+  },
+  {
+    "slug": "vacaville",
+    "name": "Vacaville",
+    "state": "CA",
+    "population": 107470
+  },
+  {
+    "slug": "valley-stream",
+    "name": "Valley Stream",
+    "state": "NY",
+    "population": 38648
+  },
+  {
+    "slug": "valparaiso",
+    "name": "Valparaiso",
+    "state": "IN",
+    "population": 35502
+  },
+  {
+    "slug": "vancouver",
+    "name": "Vancouver",
+    "state": "BC",
+    "population": 662248
+  },
+  {
+    "slug": "vancouver-wa",
+    "name": "Vancouver",
+    "state": "WA",
+    "population": 194512
+  },
+  {
+    "slug": "vaughan",
+    "name": "Vaughan",
+    "state": "ON",
+    "population": 323103
+  },
+  {
+    "slug": "ventura",
+    "name": "Ventura",
+    "state": "CA",
+    "population": 111010
+  },
+  {
+    "slug": "victoria",
+    "name": "Victoria",
+    "state": "BC",
+    "population": 91867
+  },
+  {
+    "slug": "victorville",
+    "name": "Victorville",
+    "state": "CA",
+    "population": 139650
+  },
+  {
+    "slug": "vineland",
+    "name": "Vineland",
+    "state": "NJ",
+    "population": 62527
+  },
+  {
+    "slug": "virginia-beach",
+    "name": "Virginia Beach",
+    "state": "VA",
+    "population": 457672
+  },
+  {
+    "slug": "visalia",
+    "name": "Visalia",
+    "state": "CA",
+    "population": 145619
+  },
+  {
+    "slug": "vista",
+    "name": "Vista",
+    "state": "CA",
+    "population": 101638
+  },
+  {
+    "slug": "waco",
+    "name": "Waco",
+    "state": "TX",
+    "population": 145124
+  },
+  {
+    "slug": "waipahu",
+    "name": "Waipahu",
+    "state": "HI",
+    "population": 38216
+  },
+  {
+    "slug": "wallingford",
+    "name": "Wallingford",
+    "state": "CT",
+    "population": 45615
+  },
+  {
+    "slug": "walnut-creek",
+    "name": "Walnut Creek",
+    "state": "CA",
+    "population": 71358
+  },
+  {
+    "slug": "warren",
+    "name": "Warren",
+    "state": "MI",
+    "population": 139387
+  },
+  {
+    "slug": "warren-oh",
+    "name": "Warren",
+    "state": "OH",
+    "population": 38721
+  },
+  {
+    "slug": "warwick",
+    "name": "Warwick",
+    "state": "RI",
+    "population": 82823
+  },
+  {
+    "slug": "washington",
+    "name": "Washington",
+    "state": "DC",
+    "population": 689545
+  },
+  {
+    "slug": "waterbury",
+    "name": "Waterbury",
+    "state": "CT",
+    "population": 115732
+  },
+  {
+    "slug": "waterloo",
+    "name": "Waterloo",
+    "state": "ON",
+    "population": 121436
+  },
+  {
+    "slug": "waukegan",
+    "name": "Waukegan",
+    "state": "IL",
+    "population": 90277
+  },
+  {
+    "slug": "waukesha",
+    "name": "Waukesha",
+    "state": "WI",
+    "population": 75003
+  },
+  {
+    "slug": "wausau",
+    "name": "Wausau",
+    "state": "WI",
+    "population": 40013
+  },
+  {
+    "slug": "wauwatosa",
+    "name": "Wauwatosa",
+    "state": "WI",
+    "population": 48900
+  },
+  {
+    "slug": "wenatchee",
+    "name": "Wenatchee",
+    "state": "WA",
+    "population": 36800
+  },
+  {
+    "slug": "wesley-chapel",
+    "name": "Wesley Chapel",
+    "state": "FL",
+    "population": 72600
+  },
+  {
+    "slug": "west-allis",
+    "name": "West Allis",
+    "state": "WI",
+    "population": 60997
+  },
+  {
+    "slug": "west-covina",
+    "name": "West Covina",
+    "state": "CA",
+    "population": 107440
+  },
+  {
+    "slug": "west-des-moines",
+    "name": "West Des Moines",
+    "state": "IA",
+    "population": 72892
+  },
+  {
+    "slug": "west-haven",
+    "name": "West Haven",
+    "state": "CT",
+    "population": 55584
+  },
+  {
+    "slug": "west-jordan",
+    "name": "West Jordan",
+    "state": "UT",
+    "population": 123634
+  },
+  {
+    "slug": "west-linn",
+    "name": "West Linn",
+    "state": "OR",
+    "population": 30134
+  },
+  {
+    "slug": "west-new-york",
+    "name": "West New York",
+    "state": "NJ",
+    "population": 53711
+  },
+  {
+    "slug": "west-valley-city",
+    "name": "West Valley City",
+    "state": "UT",
+    "population": 145985
+  },
+  {
+    "slug": "west-vancouver",
+    "name": "West Vancouver",
+    "state": "BC",
+    "population": 44122
+  },
+  {
+    "slug": "westerville-oh",
+    "name": "Westerville",
+    "state": "OH",
+    "population": 44481
+  },
+  {
+    "slug": "westminster",
+    "name": "Westminster",
+    "state": "CO",
+    "population": 121230
+  },
+  {
+    "slug": "westminster-ca",
+    "name": "Westminster",
+    "state": "CA",
+    "population": 91739
+  },
+  {
+    "slug": "westminster-co",
+    "name": "Westminster",
+    "state": "CO",
+    "population": 121230
+  },
+  {
+    "slug": "weston",
+    "name": "Weston",
+    "state": "FL",
+    "population": 69893
+  },
+  {
+    "slug": "wheat-ridge",
+    "name": "Wheat Ridge",
+    "state": "CO",
+    "population": 32914
+  },
+  {
+    "slug": "whistler",
+    "name": "Whistler",
+    "state": "BC",
+    "population": 13982
+  },
+  {
+    "slug": "whitby",
+    "name": "Whitby",
+    "state": "ON",
+    "population": 138501
+  },
+  {
+    "slug": "white-plains",
+    "name": "White Plains",
+    "state": "NY",
+    "population": 59599
+  },
+  {
+    "slug": "white-rock",
+    "name": "White Rock",
+    "state": "BC",
+    "population": 21939
+  },
+  {
+    "slug": "whittier",
+    "name": "Whittier",
+    "state": "CA",
+    "population": 87438
+  },
+  {
+    "slug": "wichita",
+    "name": "Wichita",
+    "state": "KS",
+    "population": 397532
+  },
+  {
+    "slug": "wichita-falls",
+    "name": "Wichita Falls",
+    "state": "TX",
+    "population": 104899
+  },
+  {
+    "slug": "wilkes-barre",
+    "name": "Wilkes-Barre",
+    "state": "PA",
+    "population": 44328
+  },
+  {
+    "slug": "wilmington",
+    "name": "Wilmington",
+    "state": "NC",
+    "population": 119582
+  },
+  {
+    "slug": "wilmington-de",
+    "name": "Wilmington",
+    "state": "DE",
+    "population": 70166
+  },
+  {
+    "slug": "windsor",
+    "name": "Windsor",
+    "state": "ON",
+    "population": 229660
+  },
+  {
+    "slug": "winnipeg",
+    "name": "Winnipeg",
+    "state": "MB",
+    "population": 749607
+  },
+  {
+    "slug": "winston-salem",
+    "name": "Winston-Salem",
+    "state": "NC",
+    "population": 251907
+  },
+  {
+    "slug": "woodbridge",
+    "name": "Woodbridge",
+    "state": "NJ",
+    "population": 105904
+  },
+  {
+    "slug": "woodbury",
+    "name": "Woodbury",
+    "state": "MN",
+    "population": 75102
+  },
+  {
+    "slug": "yakima",
+    "name": "Yakima",
+    "state": "WA",
+    "population": 97730
+  },
+  {
+    "slug": "yonkers",
+    "name": "Yonkers",
+    "state": "NY",
+    "population": 211569
+  },
+  {
+    "slug": "yorba-linda",
+    "name": "Yorba Linda",
+    "state": "CA",
+    "population": 68706
+  },
+  {
+    "slug": "york",
+    "name": "York",
+    "state": "PA",
+    "population": 44750
+  },
+  {
+    "slug": "youngstown",
+    "name": "Youngstown",
+    "state": "OH",
+    "population": 59123
+  },
+  {
+    "slug": "yuba-city",
+    "name": "Yuba City",
+    "state": "CA",
+    "population": 71484
+  },
+  {
+    "slug": "yuma",
+    "name": "Yuma",
+    "state": "AZ",
+    "population": 110102
+  }
+]

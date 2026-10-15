@@ -1,0 +1,4 @@
+import {Link} from 'wouter';
+import {Logo} from '@/components/ui/logo';
+import {SERVICE_GUIDES} from '@/components/content/service-guides';
+export function Navbar(){return <header className="site-header"><a className="skip-link" href="#main">Skip to content</a><div className="nav-main"><Link href="/" aria-label="Painters.tv home"><Logo/></Link><nav aria-label="Main navigation"><Link href="/services">The services</Link><Link href="/journal">The journal</Link><Link href="/cities">The cities</Link><Link href="/listings" className="nav-find">Find a painter ↗</Link></nav></div><details className="service-menu"><summary>Explore painting specialities</summary><nav aria-label="Painting specialities">{SERVICE_GUIDES.map(s=><Link key={s.slug} href={'/services/'+s.slug}>{s.name}</Link>)}</nav></details></header>}
